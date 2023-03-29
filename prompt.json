@@ -1,20 +1,148 @@
-[
-  {
-    "prompt": "ie. Write a short story about a moose who eats leaves",
-    "title": "Short Story",
-    "response": "The moose was hungry and had not eaten in days. He had tried to find food in the forest but all he found were the leaves of the trees. The leaves were not very filling and the moose was getting tired. He was about to give up when he saw a rabbit run by. The moose was hopeful and followed the rabbit. The rabbit ran into a hole in the ground and the moose was lost. The moose was about to give up when he saw a large apple tree. He climbed the tree and ate the apples that were on the tree. He was very happy and felt much better.",
-    "model": "text-davinci-003"
-  },
-  {
-    "prompt": "ie. Code a function in python called generate_random that generates a random number between 1 and 10",
-    "title": "Code Creation",
-    "response": "def generate_random():\n\nreturn random.random(1, 10)",
-    "model": "text-davinci-003"
-  },
-  {
-    "prompt": "ie. Write an email to my boss at the bowling alley telling him I quit",
-    "title": "Email",
-    "response": "Dear Boss,\n\nI hope this email finds you well. I am writing to inform you that I have decided to resign from my position at the bowling alley. Thank you for giving me the opportunity to work here, and I wish the rest of you all the best.\n\nSincerely,\n\n[Your name]",
-    "model": "text-davinci-003"
-  },
-]
+{
+    "listCategory": [
+        "Social Media",
+        "Hang out",
+        "Astrology",
+        "Translation",
+        "News",
+        "Weather",
+        "Finance",
+        "Easter",
+        "Entertainment",
+        "Health",
+        "Education",
+        "Productivity",
+        "Shopping",
+        "Travel",
+        "Food",
+        "Sports",
+        "Games",
+        "Music",
+        "Art",
+        "Fashion",
+        "Beauty",
+        "Home",
+        "Pets",
+        "Automotive",
+        "Science",
+        "Technology",
+        "Business",
+        "Jobs",
+        "Dating",
+        "Religion",
+        "Politics",
+        "Other"
+    ],
+    "listColors": [
+        "#FFDD20",
+        "#FF2020",
+        "#93FF20",
+        "#20FF49",
+        "#20FFDE",
+        "#206AFF",
+        "#6320FF",
+        "#B520FF",
+        "#FF20C4",
+        "#FF2067",
+        "#FF6720",
+        "#20FF20"
+    ],
+    "promptData": [
+        {
+            "prompt": "Can you please calculate my numerology numbers? My name is: <Name>, My Birthday is: <Date>",
+            "promptResponse": "Can you please calculate my numerology numbers? My name is: Swith Miller, My Birthday is: 12 December 1991",
+            "response": "Your expression number is: 3. Your life path number is: 8",
+            "title": "Numerology",
+            "description": "Helps you decode your magic numbers and hidden powers using your numerology number and name.",
+            "category": "Astrology",
+            "emoji": "🔮",
+            "color": "#FFD700",
+            "template": 0.7,
+            "model": "text-davinci-003",
+            "listEditText": [
+                {
+                    "prompt": "<Name>",
+                    "question": "Can you please tell me your name?"
+                },
+                {
+                    "prompt": "<Date>",
+                    "question": "Can you share your date of birth with me?"
+                }
+            ]
+        },
+        {
+            "prompt": "My zodiac sign is Libra, my partner’s zodiac sign is Leo. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
+            "promptResponse": "My zodiac sign is <Zodiac1>, my partner’s zodiac sign is <Zodiac2>. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
+            "response": "Of course! According to traditional astrology, Libra and Leo can make a great match! Libra is an air sign, while Leo is a fire sign, and this combo can create a great balance. Libra is known for its charm, intelligence, and strong social skills, while Leo is confident, passionate, and highly creative.\n\nIn terms of love, Libra and Leo may have an instant attraction towards each other. They both love romance and can appreciate the finer things in life. However, Libra may need a bit of space and independence at times, which Leo might find challenging. But overall, their strengths can complement each other, leading to a happy and fulfilling relationship.\n\nAs for marriage, again, there are great chances of success between these two signs. They share a love of fine things, adventure, and social connections. Libra's diplomacy and Leo's leadership skills can create a strong team-like dynamic, where both partners can support and motivate each other to achieve their goals.\n\nOverall, I would say that the zodiac compatibility between Libra and Leo is quite strong. The exact percentage of compatibility can vary based on other factors in both of your birth charts, but in general, I can say that this could be a great match for both love and marriage.",
+            "title": "Zodiac Compatibility",
+            "description": "Find out how you and your partner are compatible with each other based on zodiac signs with percentages in love, marriage, etc.",
+            "category": "Astrology",
+            "emoji": "🔮",
+            "color": "#00BFFF",
+            "template": 0.7,
+            "model": "text-davinci-003",
+            "listEditText": [
+                {
+                    "prompt": "<Zodiac1>",
+                    "question": "Your zodiak sign"
+                },
+                {
+                    "prompt": "<Zodiac2>",
+                    "question": "Your partner's zodiak sign"
+                }
+            ]
+        },
+        {
+            "prompt": "Can you please translate into <Language> language? Translate this:\n\n<Text>",
+            "promptResponse": "Can you please translate into English language? Translate this:\n\n“Привет”",
+            "response": "Hello",
+            "title": "Translation",
+            "description": "Translate texts into any language",
+            "category": "Translation",
+            "emoji": "🌍",
+            "color": "#FF0080",
+            "model": "text-davinci-003",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Language>",
+                    "question": "What language do you want to translate into?"
+                },
+                {
+                    "prompt": "<Text>",
+                    "question": "Please enter the text"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a post on “<Platform>” in order to increase brand awareness. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Create a post on “TikTok” in order to increase brand awareness. Purpose: “I want to tell you about the cool app AI Chat 4”, Target: “18-23 peoples”, Tone: “Informative”",
+            "response": "Great! I'd be happy to help manage your presence on TikTok and develop a campaign to increase brand awareness, starting with your goal of promoting the AI Chat 4 app to 18-23-year-old audiences.\n\nHere's a draft of the social media post I suggest:\n\nTitle: Discover the Future of Chatting with AI Chat 4!\n\nBody: Hey, TikTok fam! We're excited to introduce you to AI Chat 4, the cool new app that's revolutionizing how we chat. With AI Chat 4, you can chat like never before, thanks to its advanced artificial intelligence technology. Say goodbye to boring conversations and hello to fun, engaging chats that are sure to surprise and delight you!\n\nWhether you're looking for a new way to connect with friends or simply want to try something new, AI Chat 4 is the perfect choice. Download the app now and join the future of chatting!\n\n#AIChat4 #FutureOfChatting #NewTechnology #TikTok #BrandAwareness\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Social Media Posts",
+            "description": "Boost your online presence with our social media post-creation feature.",
+            "category": "Social Media",
+            "emoji": "📱",
+            "color": "#FF5100",
+            "model": "text-davinci-003",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Platform>",
+                    "question": "Specify the social media platform"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of this post?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "What is your target audience for this post?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the post to have?"
+                }
+            ]
+        }
+    ]
+}
