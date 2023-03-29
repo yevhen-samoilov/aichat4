@@ -2,11 +2,19 @@
   {
     "prompt": "ie. Write a short story about a moose who eats leaves",
     "title": "Short Story",
+    "response": "The moose was hungry and had not eaten in days. He had tried to find food in the forest but all he found were the leaves of the trees. The leaves were not very filling and the moose was getting tired. He was about to give up when he saw a rabbit run by. The moose was hopeful and followed the rabbit. The rabbit ran into a hole in the ground and the moose was lost. The moose was about to give up when he saw a large apple tree. He climbed the tree and ate the apples that were on the tree. He was very happy and felt much better.",
     "model": "text-davinci-003"
   },
   {
-    "prompt": "ie. Write a short story about a moose who eats leaves",
-    "title": "Short Story",
+    "prompt": "ie. Code a function in python called generate_random that generates a random number between 1 and 10",
+    "title": "Code Creation",
+    "response": "def generate_random():\n\nreturn random.random(1, 10)",
     "model": "text-davinci-003"
-  }
+  },
+  {
+    "prompt": "ie. Write an email to my boss at the bowling alley telling him I quit",
+    "title": "Email",
+    "response": "Dear Boss,\n\nI hope this email finds you well. I am writing to inform you that I have decided to resign from my position at the bowling alley. Thank you for giving me the opportunity to work here, and I wish the rest of you all the best.\n\nSincerely,\n\n[Your name]",
+    "model": "text-davinci-003"
+  },
 ]
