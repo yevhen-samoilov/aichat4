@@ -83,12 +83,12 @@
             "model": "text-davinci-003",
             "listEditText": [
                 {
-                    "prompt": "<Zodiac1>",
-                    "question": "Your zodiak sign"
+                    "prompt": "<Zodiac 1 Persone>",
+                    "question": "Your zodiac sign"
                 },
                 {
-                    "prompt": "<Zodiac2>",
-                    "question": "Your partner's zodiak sign"
+                    "prompt": "<Zodiac 2 Persone>",
+                    "question": "Your partner's zodiac sign"
                 }
             ]
         },
