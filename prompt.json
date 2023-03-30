@@ -71,8 +71,8 @@
             ]
         },
         {
-            "prompt": "My zodiac sign is Libra, my partner’s zodiac sign is Leo. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
-            "promptResponse": "My zodiac sign is <Zodiac1>, my partner’s zodiac sign is <Zodiac2>. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
+            "prompt": "My zodiac sign is <Zodiac 1>, my partner’s zodiac sign is <Zodiac 2>. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
+            "promptResponse": "My zodiac sign is Libra, my partner’s zodiac sign is Leo. Can you please calculate our zodiac compatibility and along with percentages in love and marriage?",
             "response": "Of course! According to traditional astrology, Libra and Leo can make a great match! Libra is an air sign, while Leo is a fire sign, and this combo can create a great balance. Libra is known for its charm, intelligence, and strong social skills, while Leo is confident, passionate, and highly creative.\n\nIn terms of love, Libra and Leo may have an instant attraction towards each other. They both love romance and can appreciate the finer things in life. However, Libra may need a bit of space and independence at times, which Leo might find challenging. But overall, their strengths can complement each other, leading to a happy and fulfilling relationship.\n\nAs for marriage, again, there are great chances of success between these two signs. They share a love of fine things, adventure, and social connections. Libra's diplomacy and Leo's leadership skills can create a strong team-like dynamic, where both partners can support and motivate each other to achieve their goals.\n\nOverall, I would say that the zodiac compatibility between Libra and Leo is quite strong. The exact percentage of compatibility can vary based on other factors in both of your birth charts, but in general, I can say that this could be a great match for both love and marriage.",
             "title": "Zodiac Compatibility",
             "description": "Find out how you and your partner are compatible with each other based on zodiac signs with percentages in love, marriage, etc.",
@@ -83,11 +83,11 @@
             "model": "text-davinci-003",
             "listEditText": [
                 {
-                    "prompt": "<Zodiac 1 Persone>",
+                    "prompt": "<Zodiac 1>",
                     "question": "Your zodiac sign"
                 },
                 {
-                    "prompt": "<Zodiac 2 Persone>",
+                    "prompt": "<Zodiac 2>",
                     "question": "Your partner's zodiac sign"
                 }
             ]
