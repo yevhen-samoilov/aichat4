@@ -28,14 +28,288 @@
     ],
     "itemStyle": [
         {
-            "prompt": "Style: Cuberpunk",
-            "image": "https://i.imgur.com/1ZQZ1ZQ.png",
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/cyberpunk.webp",
             "title": "Cuberpunk"
         },
         {
-            "prompt": "Style: Steampunk",
-            "image": "https://i.imgur.com/1ZQZ1ZQ.png",
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/steampunk.webp",
             "title": "Steampunk"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/artwork.webp",
+            "title": "Artwork"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/pixelart.webp",
+            "title": "Pixel Art"
+        }
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/gothic.webp",
+            "title": "Gothic"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/abstract.webp",
+            "title": "Abstract"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/popart.webp",
+            "title": "Pop Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/minimalism.webp",
+            "title": "Minimalism"
+        }
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/modern.webp",
+            "title": "Modern"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/realism.webp",
+            "title": "Realism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/impressionism.webp",
+            "title": "Impressionism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/baroque.webp",
+            "title": "Baroque"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/renaissance.webp",
+            "title": "Renaissance"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/expressionism.webp",
+            "title": "Expressionism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/futurism.webp",
+            "title": "Futurism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/neoclassicism.webp",
+            "title": "Neoclassicism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/primitivism.webp",
+            "title": "Primitivism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/surrealism.webp",
+            "title": "Surrealism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/symbolism.webp",
+            "title": "Symbolism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/mannerism.webp",
+            "title": "Mannerism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/romanticism.webp",
+            "title": "Romanticism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/naiveart.webp",
+            "title": "Naive Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/modernclassic.webp",
+            "title": "Modern Classic"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/minimal.webp",
+            "title": "Minimal"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/artdeco.webp",
+            "title": "Art Deco"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/psychedelic.webp",
+            "title": "Psychedelic"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/contemporary.webp",
+            "title": "Contemporary"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/fauvism.webp",
+            "title": "Fauvism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/abstractexpressionism.webp",
+            "title": "Abstract Expressionism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/cubism.webp",
+            "title": "Cubism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/conceptual.webp",
+            "title": "Conceptual"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/hyperrealism.webp",
+            "title": "Hyperrealism"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/figurative.webp",
+            "title": "Figurative"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/hardedge.webp",
+            "title": "Hardedge"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/landscape.webp",
+            "title": "Landscape"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/cityscape.webp",
+            "title": "Cityscape"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/portrait.webp",
+            "title": "Portrait"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/stilllife.webp",
+            "title": "Still Life"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/graphicdesign.webp",
+            "title": "Graphic Design"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/illustration.webp",
+            "title": "Illustration"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/tattoo.webp",
+            "title": "Tattoo"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/graffiti.webp",
+            "title": "Graffiti"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/poster.webp",
+            "title": "Poster"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/collage.webp",
+            "title": "Collage"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/watercolor.webp",
+            "title": "Watercolor"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/pencildrawing.webp",
+            "title": "Pencil Drawing"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/acrylic.webp",
+            "title": "Acrylic"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/oilpainting.webp",
+            "title": "Oil Painting"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/mixedmedia.webp",
+            "title": "Mixed Media"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/sculpture.webp",
+            "title": "Sculpture"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/ceramics.webp",
+            "title": "Ceramics"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/photography.webp",
+            "title": "Photography"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/streetart.webp",
+            "title": "Street Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/installation.webp",
+            "title": "Installation"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/performance.webp",
+            "title": "Performance"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/religiousart.webp",
+            "title": "Religious Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/contemporaryart.webp",
+            "title": "Contemporary Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/digitalart.webp",
+            "title": "Digital Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/manga.webp",
+            "title": "Manga"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/videogames.webp",
+            "title": "Video Games"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/animation.webp",
+            "title": "Animation"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/darkart.webp",
+            "title": "Dark Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/lowbrow.webp",
+            "title": "Lowbrow"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/sequentialart.webp",
+            "title": "Sequential Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/outsiderart.webp",
+            "title": "Outsider Art"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/woodengraving.webp",
+            "title": "Wood Engraving"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/monotype.webp",
+            "title": "Monotype"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/etching.webp",
+            "title": "Etching"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/engraving.webp",
+            "title": "Engraving"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/lithography.webp",
+            "title": "Lithography"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/yevhen-samoilov/aichat4/main/image/woodcut.webp",
+            "title": "Woodcut"
         }
     ]
 }
