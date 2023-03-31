@@ -1,0 +1,18 @@
+{
+    "promptRandom": [
+        "One Random",
+        "Two Random"
+    ],
+    "itemStyle": [
+        {
+            "prompt": "Style: Cuberpunk",
+            "image": "https://i.imgur.com/1ZQZ1ZQ.png",
+            "title": "Cuberpunk"
+        },
+        {
+            "prompt": "Style: Steampunk",
+            "image": "https://i.imgur.com/1ZQZ1ZQ.png",
+            "title": "Steampunk"
+        }
+    ]
+}
