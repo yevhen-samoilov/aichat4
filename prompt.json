@@ -1176,6 +1176,24 @@
                     "question": "What is the subject of the Wikipedia page?"
                 }
             ]
+        },
+        {
+            "prompt": "Solve the following math problem: “What is the value of <Expression>?”",
+            "promptResponse": "Solve the following math problem: “What is the value of 3x + 4 = 13?”",
+            "response": "Great job! Here's how we solved the math problem:\n\n3x + 4 = 13\n\nSubtract 4 from both sides:\n\n3x = 9\n\nDivide both sides by 3:\n\nx = 3\n\nSo the value of the expression is x = 3.\n\nLet me know if you have any other math problems you need help with!",
+            "title": "Math Problem Solver",
+            "description": "Get instant solutions to challenging math problems with our math problem solver feature.",
+            "category": "Education",
+            "emoji": "🧮",
+            "color": "#00BFFF",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Expression>",
+                    "question": "What is the math expression you need to solve?"
+                }
+            ]
         }
     ]
 }
