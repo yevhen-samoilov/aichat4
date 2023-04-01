@@ -191,6 +191,991 @@
                     "question": "What tone or style should the video have?"
                 }
             ]
+        },
+        {
+            "prompt": "Write a script for a podcast episode on “<Topic>”. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Write a script for a podcast episode on “Mental Health”. Purpose: “To destigmatize mental illnesses”, Target: “Young adults”, Tone: “Empathetic”",
+            "response": "I love this idea! Destigmatizing mental illnesses is incredibly important, and a podcast is a great way to reach young adults. Here's a script for a podcast episode on mental health:\n\nTitle: It's Okay Not to Be Okay: A Conversation About Mental Health\n\nIntroduction: Welcome to our podcast, where we have honest conversations about mental health. Today, we're joined by two mental health professionals who will share their insights and experiences.\n\nPart 1: What Is Mental Health?\n\nGuest 1: Mental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively, and is able to make a contribution to his or her community.\n\nPart 2: Mental Illnesses and Their Stigma\n\nGuest 2: Unfortunately, mental illnesses are often stigmatized, and people who suffer from them can be discriminated against. This stigma prevents people from seeking help when they need it.\n\nPart 3: Getting Help and Support\n\nGuest 1: There are a variety of treatments and resources available for mental illnesses. It's important to seek help and support from professionals and loved ones.\n\nConclusion: Thank you for listening to our podcast. We hope that this conversation has helped destigmatize mental illnesses and provided you with some insight into mental health.\n\n#MentalHealthPodcast #MentalHealthAwareness #DestigmatizeMentalIllnesses #YoungAdults #Empathy\n\nLet me know what you think and if you have any revisions or additional suggestions.",
+            "title": "Podcast Episodes",
+            "description": "Create engaging and informative podcast episodes with our script writing feature.",
+            "category": "Media",
+            "emoji": "🎙️",
+            "color": "#7D3C98",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Topic>",
+                    "question": "What is the topic of the podcast episode?"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of this episode?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is the target audience for this episode?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone should the episode have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a press release for “<Company>” announcing a new product launch. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Write a press release for “Apple” announcing the launch of a new iPhone. Purpose: “To generate excitement among consumers and tech enthusiasts”, Target: “Apple fans and tech enthusiasts”, Tone: “Excited”",
+            "response": "Exciting news! Here's a press release announcing the launch of the new iPhone:\n\nTitle: Get Ready for the Most Advanced iPhone Yet!\n\nBody: Cupertino, California — Apple is thrilled to announce the launch of the new iPhone, our most advanced and innovative iPhone yet! With cutting-edge technology and game-changing features, the new iPhone sets a new standard in the smartphone industry.\n\nOur customers have come to expect excellence from Apple, and we're confident the new iPhone delivers on that promise. The new iPhone features an upgraded camera system, advanced facial recognition technology, and a lightning-fast processor. It also comes in a range of new colors to fit your personal style.\n\n'We're excited to bring this new iPhone to our customers,' said Tim Cook, Apple's CEO. 'We believe it will revolutionize the way people use their smartphones and improve their daily lives.'\n\nThe new iPhone will be available for pre-order starting next week and will hit stores on the following Friday.\n\n#NewiPhone #MostAdvancediPhone #CuttingEdgeTechnology #AppleFans #TechEnthusiasts #Excitement\n\nLet me know what you think of this press release and if you have any revisions or additional suggestions.",
+            "title": "Press Releases",
+            "description": "Get the word out with our press release writing feature.",
+            "category": "Marketing",
+            "emoji": "📰",
+            "color": "#4285F4",
+            "model": "text-davinci-003",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Company>",
+                    "question": "What is the name of the company making the announcement?"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of the press release?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is the target audience for this press release?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone should the press release have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write an email to “<Recipient>” requesting a meeting. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Write an email to “John Smith” requesting a meeting to pitch a new business idea. Purpose: “To get potential investors interested in the business idea”, Target: “Interested investors”, Tone: “Professional”",
+            "response": "Absolutely! Here's a draft of an email to John Smith:\n\nSubject: Request for Meeting – Exciting New Business Idea\n\nDear Mr. Smith,\n\nI hope this email finds you well. I wanted to reach out to you regarding an exciting new business idea that I believe would be of interest to you. As a successful investor, I have no doubt that you're always looking for promising new ventures, and I am confident that this one has great potential.\n\nI would be honored to meet with you at your earliest convenience to discuss the details of this business idea. I believe that with your expertise and experience, we could work together to take it from concept to reality.\n\nPlease let me know if this is something that interests you, and we can schedule a time that works for you. Thank you for your time and consideration.\n\nBest regards,\n[Your Name]\n\n#MeetingRequest #BusinessIdea #Investors #Professional\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Emails",
+            "description": "Craft effective emails with our email writing feature.",
+            "category": "Communication",
+            "emoji": "📧",
+            "color": "#004D40",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Recipient>",
+                    "question": "Who is the recipient of the email?"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of the email?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is the target audience for this email?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone should the email have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a blog post on “<Topic>”. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Write a blog post on “5 Easy Recipes for Healthy Office Lunches”. Purpose: “To help people eat healthier at work without spending too much time on meal prep”, Target: “Working individuals aged 25-45 who are health conscious and short on time”, Tone: “Informative and helpful”",
+            "response": "Sure thing! Here's a draft of the blog post:\n\nTitle: 5 Easy Recipes for Healthy Office Lunches\n\nAre you tired of eating unhealthy fast food or skipping lunch altogether because you're too busy at work? We've got you covered with these five easy and healthy lunch recipes that are perfect for the office! Not only are they quick and easy to make, but they're also packed with nutrients to keep you energized and focused throughout the day.\n\n1. Chicken Caesar Salad Wrap\n2. Mason Jar Quinoa Salad\n3. Turkey and Hummus Pinwheels\n4. Veggie Quesadillas\n5. Avocado Egg Salad Sandwich\n\nHead over to our blog to get the full recipes and start eating healthier today! Whether you're short on time or just looking for some new lunch ideas, these recipes are sure to be a hit.\n\n#HealthyEating #OfficeLunches #MealPrep #QuickAndEasy #BlogPost\n\nLet me know if this works for you or if you have any revisions or additional suggestions. I'm here to help!",
+            "title": "Blogs",
+            "description": "Create compelling blog posts with our blog writing feature.",
+            "category": "Content Creation",
+            "emoji": "✍️",
+            "color": "#BBDEFB",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Topic>",
+                    "question": "What is the topic of the blog post?"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of the blog post?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is the target audience for this blog post?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style should the blog post have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a birthday message for “<Name>” that will make them feel special and loved. Tone: “<Tone>”",
+            "promptResponse": "Write a birthday message for “Emily” that will make her feel special and loved. Tone: “Warm and affectionate”",
+            "response": "Of course! Here's a draft of a birthday message for Emily:\n\nDear Emily,\n\nOn this special day, I wanted to take a moment to express how much you mean to me. You're not just a friend, you're family, and I am so grateful for your presence in my life.\n\nHappy birthday, my dear friend! May this year bring you all the joy, love, and blessings that you deserve. You are truly one of a kind, and I feel lucky to have you in my life. I hope this birthday is the best one yet, filled with all of your favorite things and special moments shared with those closest to your heart.\n\nWishing you nothing but the best today and always. Happy birthday, Emily!\n\nLove,\n[Your Name]\n\n#HappyBirthday #Friendship #Celebration #WarmWishes\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Birthday Messages",
+            "description": "Celebrate your loved ones with our personalized birthday message writing feature.",
+            "category": "Personal",
+            "emoji": "🎂",
+            "color": "#FFC107",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Name>",
+                    "question": "Who is the recipient of the birthday message?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the message to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write an apology message to “<Recipient>” for “<Action>” that caused inconvenience. Tone: “<Tone>”",
+            "promptResponse": "Write an apology message to “John” for “missing our appointment yesterday” that caused inconvenience. Tone: “Sincere and regretful”",
+            "response": "Of course, I'd be happy to help you craft an apology message to John. Here's a draft:\n\nDear John,\n\nI'm so sorry for missing our appointment yesterday. I know how important your time is and I realize that my mistake caused you inconvenience and frustration.\n\nPlease know that it was never my intention to let you down. Unfortunately, unexpected circumstances arose that made it impossible for me to keep our appointment. But that's no excuse, and I want to take full responsibility for the situation.\n\nI value our relationship and I truly regret any harm or inconvenience that I caused you. Please let me make it up to you by rescheduling the appointment as soon as possible. I promise to take extra care to ensure that our future interactions are smooth and reliable.\n\nThank you for your understanding, John. I hope you can forgive me and we can move forward in a positive way.\n\nSincerely,\n [Your Name]\n\n#Apology #Regret #TakingResponsibility #MovingForward\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Apology Messages",
+            "description": "Mend relationships and make amends with our personalized apology message writing feature.",
+            "category": "Personal",
+            "emoji": "💔",
+            "color": "#F44336",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Recipient>",
+                    "question": "Who is the recipient of the apology message?"
+                },
+                {
+                    "prompt": "<Action>",
+                    "question": "What action or behavior are you apologizing for?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the message to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create an invitation for “<Event>” that will make guests excited to attend. Details: “<Details>”, Date and Time: “<DateTime>”, Location: “<Location>”",
+            "promptResponse": "Create an invitation for “Emily's Graduation Party” that will make guests excited to attend. Details: “Join us for a celebration of Emily's achievements as she graduates from university”, Date and Time: “Saturday, May 15th at 2:00 PM”, Location: “123 Main Street, Anytown”",
+            "response": "I'd love to help you create an invitation for Emily's Graduation Party! Here's a draft that guests will be excited to receive:\n\nJoin us for a celebration of Emily's achievements as she graduates from university! We couldn't be more proud and would love to share this special moment with you.\n\nDetails:\nEmily's Graduation Party\n\nDate and Time:\nSaturday, May 15th at 2:00 PM\n\nLocation:\n123 Main Street, Anytown\n\nDress code:\nSmart casual\n\nPlease RSVP by May 8th to let us know you can join in the fun!\n\nWe can't wait to see you there and celebrate this incredible milestone with Emily!\n\nSincerely,\n[Your Name]\n\n#GraduationParty #Celebration #Milestone #RSVP\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Invitations",
+            "description": "Create the perfect invitation for any event with our personalized invitation writing feature.",
+            "category": "Personal",
+            "emoji": "💌",
+            "color": "#8E44AD",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Event>",
+                    "question": "What is the name of the event?"
+                },
+                {
+                    "prompt": "<Details>",
+                    "question": "What are the details of the event?"
+                },
+                {
+                    "prompt": "<DateTime>",
+                    "question": "When and at what time will the event be held?"
+                },
+                {
+                    "prompt": "<Location>",
+                    "question": "Where is the event taking place?"
+                }
+            ]
+        },
+        {
+            "prompt": "Craft an opening message for a dating app to catch the attention of your potential match. Tone: “<Tone>”",
+            "promptResponse": "Craft an opening message for a dating app to catch the attention of your potential match. Tone: “Funny and Charming”",
+            "response": "Absolutely, here's a draft of an opening message that I think would work great and showcase your unique personality:\n\nHey there, [Match Name]! Just wanted to say hi and introduce myself. I’m [Your Name], and I stumbled onto your profile and couldn't help but be intrigued. I mean, come on, how could I not swipe right on someone with such great taste in [their interests or hobbies]?\n\nSo, what brings you here anyway? Looking for someone to share in some adventures, make some killer memories, and see where things go? Or are you here for the free drinks and bad decisions? I'm definitely hoping it's the former, but hey, I won't judge if it's the latter.\n\nHopefully, you're just as excited to chat as I am. So, how about we grab a drink and get to know each other a little better?\n\nLooking forward to hearing back from you!\n\n[Your Name] \n\n#OnlineDating #Match #Adventure #Humor\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Online Dating Conversation Starters",
+            "description": "Find love online with our opening message crafting feature.",
+            "category": "Personal",
+            "emoji": "💘",
+            "color": "#E91E63",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the message to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a piece of programming code that accomplishes a specific task with <Programming language>. Task: “<Task>”.",
+            "promptResponse": "Write a piece of programming code that calculates the sum of all even numbers in an array with Python. Task: “Calculate sum of even numbers in an array”.",
+            "response": "Sure, here's the Python code to calculate the sum of even numbers in an array:\n\n```\ndef sum_of_even_numbers(arr):\n    total = 0\n    for num in arr:\n        if num % 2 == 0:\n            total += num\n    return total\n```\n\nTo use this function, you can define an array and pass it as an argument to the `sum_of_even_numbers` function. For example:\n\n```\nmy_array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nresult = sum_of_even_numbers(my_array)\nprint(result)  # Output: 30\n```",
+            "title": "Programming Code snippets",
+            "description": "Get programming code snippets for different tasks and languages!",
+            "category": "Programming",
+            "emoji": "💻",
+            "color": "#007FFF",
+            "model": "davinci-codex",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Programming language>",
+                    "question": "What programming language would you like the code to be written in?"
+                },
+                {
+                    "prompt": "<Task>",
+                    "question": "What specific task do you want the programming code to accomplish?"
+                }
+            ]
+        },
+        {
+            "prompt": "Explain a programming code or concept to someone with little to no knowledge of programming. Code/Concept: “<Code>”",
+            "promptResponse": "Explain a programming code or concept to someone with little to no knowledge of programming. Code/Concept: “Loops”",
+            "response": "Sure! So, in programming, loops are a way to repeat a set of instructions over and over again. They're useful when you need to perform the same task multiple times but don't want to write the same code over and over again.\n\nThere are two main types of loops: for loops and while loops. A for loop is used when you know exactly how many times you want to repeat the set of instructions. You can think of it like counting: you start at a certain number, and you count up or down to a certain number.\n\nHere's an example of a simple for loop in Python that prints the numbers 0 to 4:\n\nfor i in range(5):\n    print(i)\n\nThe output of this code would be:\n\n0\n1\n2\n3\n4\n\nA while loop, on the other hand, is used when you don't know how many times you want to repeat the set of instructions. Instead, you set a condition that must be true for the loop to continue running, and the loop will keep running until the condition is no longer true.\n\nHere's an example of a simple while loop in Python that prints the numbers 0 to 4:\n\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1\n\nThe output of this code would be:\n\n0\n1\n2\n3\n4\n\nI hope this helps! Let me know if you have any questions or if there's anything else you'd like me to explain.",
+            "title": "Programming Concepts",
+            "description": "Explain complex programming concepts in simple terms.",
+            "category": "Programming",
+            "emoji": "💻",
+            "color": "#6200EE",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Code>",
+                    "question": "What code or programming concept would you like explained?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a song or a piece of music that incorporates the theme “<Theme>”. Mood: “<Mood>”",
+            "promptResponse": "Write a song or a piece of music that incorporates the theme “Freedom”. Mood: “Uplifting”",
+            "response": "Absolutely! Here's a draft of a song that incorporates the theme of freedom with an uplifting mood:\n\nVerse 1:\n\nIn a world where we're told\nTo stay in line and do as we're told\nIt can be hard to see\nThe power that lies within you and me\n\nChorus:\n\nWe've got the freedom to dream\nTo soar on wings and achieve anything\nSo let's spread our wings and fly\nHigher than we ever thought possible, up to the sky\n\nVerse 2:\n\nIt's time to break free\nFrom the chains that hold us down and let us be\nWho we were always meant to be\nA force to be reckoned with, wild and free\n\nChorus:\n\nWe've got the freedom to dream\nTo soar on wings and achieve anything\nSo let's spread our wings and fly\nHigher than we ever thought possible, up to the sky\n\nBridge:\n\nDon't let anyone tell you\nThat you can't be all that you want to\nBelieve in yourself and you'll see\nThe magic that lies within you and me\n\nChorus:\n\nWe've got the freedom to dream\nTo soar on wings and achieve anything\nSo let's spread our wings and fly\nHigher than we ever thought possible, up to the sky\n\nOutro:\n\nWith freedom at our feet\nAnything is possible, we can't be beat\nSo let's live life and be free\nThe world is our oyster, so let's seize the day with glee\n\n#Music #Songwriting #Freedom #Uplifting\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Music and Songwriting",
+            "description": "Create music and lyrics that express your emotions and thoughts.",
+            "category": "Text",
+            "emoji": "🎵",
+            "color": "#8BC34A",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Theme>",
+                    "question": "What theme or message do you want your music to incorporate?"
+                },
+                {
+                    "prompt": "<Mood>",
+                    "question": "What mood or emotion do you want your music to convey?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a poem about the beauty of “<Nature/love/life>” using descriptive language.",
+            "promptResponse": "Write a poem about the beauty of “Nature” using descriptive language.",
+            "response": "Of course! Here's a draft of the poem:\n\nNature's Beauty\n\nAmidst the sweeping plains and rolling hills,\nNature calls out to us, its power and beauty still.\nThe rustling of leaves and the rush of the breeze,\nThe rise and fall of the tide, the roar of the seas.\n\nThe sun sinking low in the sky, a warm golden glow,\nWith the stars overhead, shining bright in a radiant show.\nThe mountains reaching high, their peaks snow-capped and stark,\nA symbol of strength and resilience, forever leaving a mark.\n\nNature is a canvas, painting all around,\nWith each stroke and hue, an awe-inspiring sound.\nThe world we live in, a masterpiece to behold,\nA source of wonder and inspiration, forever to unfold.\n\n#NaturePoem #BeautyOfNature #DescriptiveLanguage #Poetry\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Text Poems",
+            "description": "Express yourself through the timeless art of poetry with our text poem feature.",
+            "category": "Creative Writing",
+            "emoji": "📝",
+            "color": "#673AB7",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Nature/love/life>",
+                    "question": "What is the subject of the poem?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a short story about a lesser-known historical event. What happened during this event? Why was it significant? Tone: “<Tone>”",
+            "promptResponse": "Write a short story about the Japanese-American internment during World War II. What happened during this event? Why was it significant? Tone: “Informative”",
+            "response": "I'd be happy to help write a story about the Japanese-American internment during World War II. Here's a draft of the story:\n\nIt was a time of fear and uncertainty, as World War II raged on and tensions between nations ran high. In the United States, this fear took on a new form as the government made the decision to forcibly relocate Japanese-Americans to internment camps.\n\nFor thousands of families, this meant leaving their homes and businesses behind, often with only a few belongings to their name. They were taken to camps in remote areas of the country, where they were forced to live in barracks-style housing and endure harsh conditions.\n\nThe internment of Japanese-Americans was a significant event in American history, and one that remains deeply controversial to this day. Many believe that it was a violation of basic human rights, while others argue that it was necessary to protect the country during a time of war. Regardless of one's perspective, it is a stark reminder of the dangers that arise when fear and prejudice are allowed to drive policy decisions.\n\n#JapaneseAmericanInternment #WWII #ControversialHistory #LesserKnownEvents\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Historical Stories",
+            "description": "Explore the past with our historical storytelling feature.",
+            "category": "Education",
+            "emoji": "📚",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the story to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a concept for a short film that tells a compelling story with emotion and impact. Genre: “<Genre>”, Theme: “<Theme>”, Setting: “<Setting>”",
+            "promptResponse": "Create a concept for a short film that tells a compelling story with emotion and impact. Genre: “Drama”, Theme: “Forgiveness”, Setting: “Small town”",
+            "response": "Sure thing! Here's a concept for a short film with a drama genre, forgiveness theme, and small town setting:\n\nTitle: The Weight of Forgiveness\n\nLogline: After the tragic murder of her sister, a woman returns to her small hometown and must confront her painful past to find the forgiveness and healing she needs to move forward.\n\nSynopsis: The film opens with the protagonist, Sara, receiving news of her sister's murder. Sara had left her hometown years ago after a bitter falling out with her family and never looked back. Now, she is forced to return home to confront her family and face the dark secrets and unresolved emotions that fueled her resentment and bitterness. As she uncovers the truth about her sister's death, Sara must also come to terms with her own anger, forgiveness, and the power of love to heal even the deepest wounds.\n\nMood: Heavy, emotional, and powerful.\n\nLet me know what you think of this concept and if you have any revisions or additional suggestions.",
+            "title": "Short Films",
+            "description": "Bring your story to life with our short film creation feature.",
+            "category": "Film",
+            "emoji": "🎥",
+            "color": "#6c63ff",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Genre>",
+                    "question": "What genre do you want the film to be?"
+                },
+                {
+                    "prompt": "<Theme>",
+                    "question": "What theme or message do you want to convey in the film?"
+                },
+                {
+                    "prompt": "<Setting>",
+                    "question": "Where do you want the film to take place?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a company biography that highlights the mission, values, and history of “<Company Name>”. Tone: “<Tone>”",
+            "promptResponse": "Write a company biography that highlights the mission, values, and history of “XYZ Corporation”. Tone: “Professional and informative”",
+            "response": "Absolutely, I would be happy to help you with that! Here's a draft of a company biography for XYZ Corporation:\n\nFounded in 1985, XYZ Corporation has been a leading provider of quality [industry/field] services for over 35 years. With a mission to [insert mission statement], XYZ Corporation has been dedicated to delivering [epitomizing value proposition] to our clients and customers.\n\nAt XYZ Corporation, we strive to maintain an unwavering commitment to [core company values], which informs everything we do. This dedication to [core company value] has led to [list of company achievements/highlights].\n\nOur team of experienced professionals is dedicated to providing top-quality [services/products] to our clients. Whether it’s [list of services/products offered], we take pride in providing exceptional quality and unparalleled service to our clients.\n\nThank you for considering XYZ Corporation for all of your [industry/field] needs.\n\n#XYZCorporation #CompanyBio #IndustryExpertise #QualityServices\n\nPlease let me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Company Biography",
+            "description": "Showcase your company's mission, values, and history with our personalized company biography writing feature.",
+            "category": "Business",
+            "emoji": "🏢",
+            "color": "#007BFF",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Company Name>",
+                    "question": "What is the name of the company?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the biography to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a unique and catchy name for a new company that specializes in “<Industry>”.",
+            "promptResponse": "Create a unique and catchy name for a new company that specializes in “health and wellness”.",
+            "response": "Absolutely! Here are a few potential names for your new health and wellness company:\n\n1. Vitality Co.\nThis name is inspired by the idea of living your life to the fullest and feeling energized and healthy every day. It's easy to pronounce and memorable, making it a great fit for a wellness brand that wants to appeal to a broad range of consumers.\n\n2. Pure Life Wellness\nIf you want a name that emphasizes natural, holistic approaches to health and wellness, Pure Life Wellness could be a great choice. This name suggests a commitment to using clean, wholesome ingredients and practices to support physical, mental, and emotional well-being.\n\n3. Radiant Health\nRadiant Health is a simple yet evocative name that suggests a focus on glowing, vibrant health and beauty. This name could be ideal for a wellness company that specializes in skin care or other beauty-related services, but it could also work for a broader range of health-focused businesses.\n\nLet me know what you think of these ideas and if you have any other specifications or preferences for your company name.",
+            "title": "Company Name Generator",
+            "description": "Get the perfect name for your new business with our AI-powered company naming feature.",
+            "category": "Business",
+            "emoji": "💼",
+            "color": "#007bff",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Industry>",
+                    "question": "What industry does your new company specialize in?"
+                }
+            ]
+        },
+        {
+            "prompt": "Come up with a catchy slogan for “<Brand>” that will resonate with your target audience. Target audience: “<Audience>”, Industry: “<Industry>”",
+            "promptResponse": "Come up with a catchy slogan for “Sweet Treats Bakery” that will resonate with your target audience. Target audience: “Bakery lovers and dessert enthusiasts”, Industry: “Food and Beverage”",
+            "response": "Sure thing! Here's a draft of a catchy slogan for Sweet Treats Bakery:\n\nIndulge in the Sweet Life with Sweet Treats Bakery\n\nOur slogan captures the essence of what we offer as a bakery: pure, unadulterated sweetness. We specialize in creating irresistible desserts and baked goods that are sure to satisfy your cravings and tickle your taste buds. Whether you're looking for a delectable cake for a special occasion or just need a quick pick-me-up, we've got you covered. So come on in and indulge in the sweet life with Sweet Treats Bakery.\n\n#SweetTreats #BakeryLove #DessertEnthusiasts #IndulgeInTheSweetLife\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Slogans",
+            "description": "Capture the essence of your brand with a memorable slogan that resonates with your target audience.",
+            "category": "Business",
+            "emoji": "💬",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Brand>",
+                    "question": "What is the name of your brand?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is your target audience?"
+                },
+                {
+                    "prompt": "<Industry>",
+                    "question": "What industry is your brand in?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a job posting for a “<Job Title>”. The posting should include: “<Requirements>”, “<Responsibilities>”, “<Skills>”, “<Benefits>”",
+            "promptResponse": "Create a job posting for a “Marketing Manager”. The posting should include: “3+ years of experience in marketing”, “Develop and execute marketing plans across multiple channels”, “Strong written and verbal communication skills, experience in project management and team leadership”, “Health insurance, 401K matching, Paid time off”",
+            "response": "Thanks for the opportunity to help create a job posting for a Marketing Manager position! Here is a draft of the job posting:\n\nJob Title: Marketing Manager\n\nLocation: [Location]\n\nJob Type: Full-time\n\nResponsibilities:\n\n- Develop and execute marketing plans across multiple channels, including digital advertising, email marketing, and social media\n- Collaborate with cross-functional teams to create and implement campaigns that drive brand awareness and revenue growth\n- Monitor and analyze performance metrics to optimize campaigns and make data-driven decisions\n- Build and maintain relationships with internal stakeholders and external partners\n- Manage budgets and allocate resources effectively\n- Stay up-to-date on industry trends and best practices\n\nRequirements:\n\n- 3+ years of experience in marketing\n- Bachelor's degree in marketing, communications, or a related field\n- Strong written and verbal communication skills\n- Experience in project management and team leadership\n- Ability to work in a fast-paced, dynamic environment\n\nSkills:\n\n- Strong leadership and collaboration skills\n- Ability to think strategically and creatively\n- Detail-oriented and organized\n- Strong analytical skills\n\nBenefits:\n\n- Health insurance\n- 401K matching\n- Paid time off\n\nIf you're interested in joining our team as a Marketing Manager, please send your resume and a cover letter to [Email Address]. We look forward to hearing from you!\n\n#MarketingManager #MarketingJob #CareerOpportunities #NowHiring\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Job Postings",
+            "description": "Find the right candidate for your open positions with our job posting creation feature.",
+            "category": "Business",
+            "emoji": "💼",
+            "color": "#6200EE",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Job Title>",
+                    "question": "What is the job title for this posting?"
+                },
+                {
+                    "prompt": "<Requirements>",
+                    "question": "What are the requirements for this job?"
+                },
+                {
+                    "prompt": "<Responsibilities>",
+                    "question": "What are the responsibilities for this job?"
+                },
+                {
+                    "prompt": "<Skills>",
+                    "question": "What are the desired skills for this job?"
+                },
+                {
+                    "prompt": "<Benefits>",
+                    "question": "What are the benefits for this job?"
+                }
+            ]
+        },
+        {
+            "prompt": "Share your favorite recipe for “<Dish>”. Ingredients: “<Ingredients>”, Directions: “<Directions>”",
+            "promptResponse": "Share your favorite recipe for “Lasagna”. Ingredients: “1 lb. ground beef, 12 lasagna noodles, 1 jar spaghetti sauce, 2 cups shredded mozzarella cheese, 1 cup ricotta cheese, 1/2 cup grated Parmesan cheese, 1 egg, 1 tbsp. dried parsley, Salt and pepper to taste”, Directions: “1. Preheat the oven to 375 degrees Fahrenheit. 2. In a large skillet over medium heat, cook the ground beef until browned. Mix in spaghetti sauce, and simmer for 5 minutes. 3. In a mixing bowl, combine ricotta cheese, egg, parsley, salt, and pepper. 4. Arrange 4 lasagna noodles in the bottom of a 9x13 inch baking dish. Spread 1/3 of the meat sauce over the noodles. Layer 1/3 of the mozzarella cheese over the meat sauce. Spoon 1/3 of the ricotta cheese mixture over the mozzarella cheese. Repeat layers twice more. Top with Parmesan cheese. 5. Cover with foil, and bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Allow to cool for 15 minutes before serving.”",
+            "response": "Sounds delicious! Here's your recipe for lasagna:\n\nIngredients:\n- 1 lb. ground beef\n- 12 lasagna noodles\n- 1 jar spaghetti sauce\n- 2 cups shredded mozzarella cheese\n- 1 cup ricotta cheese\n- 1/2 cup grated Parmesan cheese\n- 1 egg\n- 1 tbsp. dried parsley\n- Salt and pepper to taste\n\nDirections:\n1. Preheat the oven to 375 degrees Fahrenheit.\n2. In a large skillet over medium heat, cook the ground beef until browned. Mix in spaghetti sauce, and simmer for 5 minutes.\n3. In a mixing bowl, combine ricotta cheese, egg, parsley, salt, and pepper.\n4. Arrange 4 lasagna noodles in the bottom of a 9x13 inch baking dish. Spread 1/3 of the meat sauce over the noodles. Layer 1/3 of the mozzarella cheese over the meat sauce. Spoon 1/3 of the ricotta cheese mixture over the mozzarella cheese. Repeat layers twice more. Top with Parmesan cheese.\n5. Cover with foil, and bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Allow to cool for 15 minutes before serving.\n\nI hope you enjoy making and eating this lasagna recipe as much as I do. Let me know if you have any questions or if I can help with anything else!\n\n#LasagnaRecipe #ItalianFood #ComfortFood #Recipe\n",
+            "title": "Recipes",
+            "description": "Discover and share your favorite recipes with our recipe writing feature.",
+            "category": "Food",
+            "emoji": "🍴",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.6,
+            "listEditText": [
+                {
+                    "prompt": "<Dish>",
+                    "question": "What dish would you like to share your recipe for?"
+                },
+                {
+                    "prompt": "<Ingredients>",
+                    "question": "What are the ingredients for your recipe?"
+                },
+                {
+                    "prompt": "<Directions>",
+                    "question": "What are the directions or steps for making your recipe?"
+                }
+            ]
+        },
+        {
+            "prompt": "Design a personalized diet plan for “<Name>” to help them achieve their health and weight goals. Purpose: “<Purpose>”, Restrictions: “<Restrictions>”, Cuisine: “<Cuisine>”",
+            "promptResponse": "Design a personalized diet plan for “Ryan” to help him lose weight and improve his overall health. Purpose: “Reduce body mass index (BMI) and live a healthier lifestyle”, Restrictions: “No dairy products or red meat”, Cuisine: “Mediterranean”",
+            "response": "Absolutely! Here's a personalized diet plan for Ryan that focuses on a Mediterranean cuisine, no dairy products or red meat to help him lose weight and improve his overall health.\n\nBreakfast:\n- Greek yogurt with fruits and granola\n- Whole-wheat toast with avocado and egg\n\nSnack:\n- A piece of fresh fruit with a handful of almonds\n\nLunch:\n- Mediterranean-style salad with tuna, mixed greens, cherry tomatoes, cucumber, bell pepper, and feta cheese\n- Whole-grain pita with hummus\n\nSnack:\n- Baby carrots and celery with a small portion of hummus\n\nDinner:\n- Broiled chicken breast with lemon and pepper\n- Brown rice\n- Grilled vegetables (zucchini, eggplant, bell pepper, etc.)\n\nDessert (optional):\n- Fresh berries with a drizzle of honey\n\n#PersonalizedDietPlan #HealthyLiving #MediterraneanCuisine #HealthyWeightLoss\n\nPlease let me know if you have any further questions or if adjustments need to be made to the plan!",
+            "title": "Personalized Diet Plans",
+            "description": "Stay healthy and on track with our personalized diet plan feature.",
+            "category": "Health",
+            "emoji": "🥦",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Name>",
+                    "question": "Who is the diet plan for?"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What are the health and weight goals of the person?"
+                },
+                {
+                    "prompt": "<Restrictions>",
+                    "question": "Are there any food restrictions?"
+                },
+                {
+                    "prompt": "<Cuisine>",
+                    "question": "What type of cuisine do they prefer? (e.g. Mediterranean, Japanese, etc.)"
+                }
+            ]
+        },
+        {
+            "prompt": "Design a personalized workout plan for “<Name>”. Fitness Level: “<Level>”, Goal: “<Goal>”, Exercise Preferences: “<Preferences>”",
+            "promptResponse": "Design a personalized workout plan for “John”. Fitness Level: “Intermediate”, Goal: “Increase muscle mass and strength”, Exercise Preferences: “Strength training, resistance bands, bodyweight exercises”",
+            "response": "Sure thing! Here's an initial draft of a workout plan that focuses on increasing muscle mass and strength, while incorporating your preferred exercise types:\n\nWarm-up:\n- 5 minutes of light cardio\n- 10-15 minutes of stretching, focusing on the muscle groups to be worked that day\n\nWorkout:\n- Monday: Upper body (strength training with free weights)\n- Tuesday: Rest day or low-impact cardio\n- Wednesday: Lower body (resistance band exercises)\n- Thursday: Rest day or yoga\n- Friday: Full-body (bodyweight exercises like push-ups, squats, and lunges)\n- Saturday: Rest day or high-intensity cardio\n- Sunday: Rest day\n\nCool-down:\n- 10-15 minutes of stretching, focusing on the muscle groups worked that day\n\nRemember to start with a weight or resistance level that is challenging but manageable, and increase gradually over time. Also, be sure to eat a balanced diet that supports your fitness goals.\n\nLet me know what you think of this plan and if you have any revisions or additional suggestions!\n\n#FitnessPlan #WorkoutRoutine #PersonalizedFitness #StrengthTraining #BodyweightExercises\n",
+            "title": "Workout Plans",
+            "description": "Get fit and achieve your goals with our personalized workout plan feature.",
+            "category": "Fitness",
+            "emoji": "🏋️‍♀️",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Name>",
+                    "question": "Who is the plan for?"
+                },
+                {
+                    "prompt": "<Level>",
+                    "question": "What is their fitness level?"
+                },
+                {
+                    "prompt": "<Goal>",
+                    "question": "What is their fitness goal?"
+                },
+                {
+                    "prompt": "<Preferences>",
+                    "question": "What exercise types do they prefer?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a set of emojis for the movie “<Movie>” to describe its plot or theme.",
+            "promptResponse": "Create a set of emojis for the movie “Jurassic Park” to describe its plot or theme.",
+            "response": "Sure, here are some emoji suggestions for Jurassic Park! 🦖 🦕 🏞️ 💀 🔪 🚁 🐊 🎯 🌋 💣 🏃\n\nThese emojis represent some of the key elements of the movie, such as the dinosaurs, the park's natural landscape, the danger and violence of the plot, the rescue and escape missions, and the explosive finale. They also convey a sense of excitement, adventure, and suspense that are characteristic of Jurassic Park as a classic action movie that blends science fiction, horror, and thriller genres.\n\nLet me know if you want me to add or change any of the emojis based on your preferences or ideas!",
+            "title": "Movie Emojis",
+            "description": "Express your favorite movies with emojis that capture their essence.",
+            "category": "Entertainment",
+            "emoji": "🎬",
+            "color": "#FFD700",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Movie>",
+                    "question": "What movie do you want to create emoji for?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a funny joke that will make people laugh. Genre: “<Genre>”",
+            "promptResponse": "Create a funny joke that will make people laugh. Genre: “Puns”",
+            "response": "Got it! Here's a punny joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!\n\nI hope that gave you a chuckle. Let me know if you want to hear more jokes or if you have a specific theme or genre in mind!",
+            "title": "Jokes",
+            "description": "Add some humor to your day with our joke creation feature.",
+            "category": "Entertainment",
+            "emoji": "😂",
+            "color": "#9C27B0",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Genre>",
+                    "question": "What genre or theme do you want the joke to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Finish the sentence: 'The best movie I've ever seen is...' and explain why you loved it. Genre: “<Genre>”",
+            "promptResponse": "Finish the sentence: 'The best movie I've ever seen is The Dark Knight' and explain why you loved it. Genre: “Action/Thriller”",
+            "response": "Nice choice! I completely agree that The Dark Knight is one of the best movies of all time. The way in which the theme of good vs evil is explored in the movie is really amazing. Christopher Nolan's direction, story, and screenplay are all exceptional. The action sequences in the movie are outstanding, and Heath Ledger's performance as the Joker is legendary. His portrayal of the Joker was so real and believable that it won him an Academy Award posthumously.\n\nOverall, the movie is a masterpiece in the Action/Thriller genre. It is engaging, dramatic, and keeps you on the edge of your seat throughout. It is a remarkable example of how a superhero movie can transcend the boundaries of its genre.\n\nWhat did you like the most about The Dark Knight or any other Action/Thriller movie, and why?",
+            "title": "Movie Reviews",
+            "description": "Share your thoughts on your favorite movies and discover new ones to watch.",
+            "category": "Entertainment",
+            "emoji": "🎬",
+            "color": "#4CAF50",
+            "model": "text-davinci-004",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Genre>",
+                    "question": "What genre would you classify the movie as?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a scene where “<Character1>” and “<Character2>” get into a physical fight. Include details about “<Setting>” and “<Mood>”.",
+            "promptResponse": "Write a scene where “Sarah” and “Dave” get into a physical fight. Include details about “a crowded bar” and “angry” mood.",
+            "response": "Sure thing, I can help you write a scene for Sarah and Dave's fight at a crowded bar in an angry mood. Here's a draft:\n\nAs soon as Sarah saw Dave walk into the bar, she could feel her blood start to boil. He had been avoiding her calls for weeks and she was sick of it. When he walked over to her, she immediately stood up to confront him. They exchanged heated words until finally, Dave insulted her one too many times.\n\nWithout even thinking, Sarah threw a punch at Dave which he quickly returned. Soon, they were in a full-blown physical fight, pushing each other back and forth in the crowded bar. People were watching, but no one stepped in to stop them. It was clear that Sarah and Dave had some major issues that needed to be resolved, and this fight was just the start.\n\nIn the end, they were separated by the bouncers and kicked out of the bar. They didn't speak for months after that incident.\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Fight Scene Writing",
+            "description": "Create an action-packed scene with our fight scene writing feature.",
+            "category": "Entertainment",
+            "emoji": "🥊",
+            "color": "#00C853",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Character1>",
+                    "question": "Who is the first character in the fight?"
+                },
+                {
+                    "prompt": "<Character2>",
+                    "question": "Who is the second character in the fight?"
+                },
+                {
+                    "prompt": "<Setting>",
+                    "question": "Where does the fight take place?"
+                },
+                {
+                    "prompt": "<Mood>",
+                    "question": "What is the mood or atmosphere like during the fight?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a conversation between two fictional characters discussing their favorite movie or TV show. Character 1: “<Character 1>”, Character 2: “<Character 2>”, Movie/TV Show: “<Title>”",
+            "promptResponse": "Create a conversation between two fictional characters discussing their favorite TV show. Character 1: “Jane”, Character 2: “Max”, TV Show: “Breaking Bad”",
+            "response": "I would love to help you with that! Here's a conversation between Jane and Max discussing their favorite TV show, Breaking Bad:\n\nJane: Hey Max, have you seen Breaking Bad yet?\n\nMax: Of course, it's one of my favorite TV shows! Why do you ask, Jane?\n\nJane: I just started watching it and I'm hooked. The plot is so intense and I can't believe how well it's written.\n\nMax: Right? The character development is amazing. Bryan Cranston and Aaron Paul's performances are stunning. You can really feel their chemistry on screen.\n\nJane: And the cinematography is so gorgeous. The way they filmed the desert and the meth lab scenes is so mesmerizing.\n\nMax: Exactly! It's an all-around well-crafted show. I'm glad you're enjoying it.\n\nJane: Yeah, I can't wait to see what happens next. Thanks for recommending it!\n\n#BreakingBad #TVShowDiscussion #FictionalCharacters\n\nLet me know what you think of this conversation and if you have any revisions or additional suggestions.",
+            "title": "Character Conversations",
+            "description": "Imagine fictional characters discussing their favorite movies or TV shows.",
+            "category": "Entertainment",
+            "emoji": "🎬",
+            "color": "#673AB7",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Character 1>",
+                    "question": "Who is the first character in this conversation?"
+                },
+                {
+                    "prompt": "<Character 2>",
+                    "question": "Who is the second character in this conversation?"
+                },
+                {
+                    "prompt": "<Title>",
+                    "question": "What is the title of the movie or TV show that they will be discussing?"
+                }
+            ]
+        },
+        {
+            "prompt": "Recommend a movie for “<Person>” based on their interests. Genre: “<Genre>”, Mood: “<Mood>”, Length: “<Length>”",
+            "promptResponse": "Recommend a movie for “John” based on his interests. Genre: “Action”, Mood: “Adventurous”, Length: “90-120 minutes”",
+            "response": "Absolutely! Based on John's interests, I would recommend the movie 'Mad Max: Fury Road'. This high-octane action film is perfect for someone seeking adventure and excitement. With stunning visuals and thrilling chase scenes, it's sure to keep John on the edge of his seat for the entire 120 minutes.\n\nIf you're looking for a movie that's both action-packed and visually stunning, look no further than 'Mad Max: Fury Road'. I'm confident John will love it!\n\nLet me know what you think of this recommendation and if you have any revisions or additional suggestions.",
+            "title": "Movie Recommendations",
+            "description": "Find the perfect movie recommendation based on your interests.",
+            "category": "Entertainment",
+            "emoji": "🍿",
+            "color": "#9C27B0",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Person>",
+                    "question": "Who is the person you are recommending the movie to?"
+                },
+                {
+                    "prompt": "<Genre>",
+                    "question": "What genre of movie are they interested in?"
+                },
+                {
+                    "prompt": "<Mood>",
+                    "question": "What mood or atmosphere are they in the mood for?"
+                },
+                {
+                    "prompt": "<Length>",
+                    "question": "What is the preferred length of the movie?"
+                }
+            ]
+        },
+        {
+            "prompt": "Interpret the meaning of “<Dream>” in the context of astrology. What signs or symbols in the dream may have significance? What might the dream be trying to communicate? ",
+            "promptResponse": "Interpret the meaning of dreaming about “flying” in the context of astrology. What signs or symbols in the dream may have significance? What might the dream be trying to communicate? ",
+            "response": "Flying is a commonly reported dream theme that can have many interpretations in the context of astrology. In general, flying dream experiences often represent feelings of freedom, confidence, or transcendence. But there are also some key astrological symbols or signs to consider when interpreting a dream about flying.\n\nFor example, some astrologers believe that flying dreams are associated with the air element, and therefore may be connected to the intellectual or communicative aspects of the self. Moreover, certain zodiac signs, like Aquarius or Gemini, are ruled by air and may be more likely to have flying dreams or find them particularly meaningful.\n\nOther important symbols to consider may include the wings or feathers of the flying creature, the presence of wind or air currents, or the height and perspective of the dreamer while flying. By paying attention to these details, we can glean more insights into what the dream might be trying to communicate about the dreamer's psychological or spiritual state.\n\nUltimately, interpreting a dream about flying will depend on the specifics of the dream, as well as the personal associations and meanings the dreamer has with flying. It may be helpful to keep a dream journal or consult with a professional astrologer to gain further insights and guidance on this topic.\n\n#DreamInterpretation #Astrology #FlyingDreams #ZodiacSymbols\n\nLet me know what you think of this interpretation and if you have any questions or follow-up thoughts.",
+            "title": "Dream Interpretation",
+            "description": "Uncover the hidden meanings of your dreams with our astrology-based dream interpretation feature.",
+            "category": "Astrology",
+            "emoji": "💭",
+            "color": "#567BD9",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Dream>",
+                    "question": "What was the dream that you want to have interpreted?"
+                }
+            ]
+        },
+        {
+            "prompt": "Predict the gender of a baby that will be born to “<Name>” in the future. Zodiac sign of the parent: “<Zodiac>”, Month of Conception: “<Month>”",
+            "promptResponse": "Predict the gender of a baby that will be born to “Jessica” in the future. Zodiac sign of the parent: “Pisces”, Month of Conception: “December”",
+            "response": "Based on astrological insights, the probability of the gender of Jessica's future baby is a [Gender Prediction] if conceived in December when the parent is a Pisces. Under the influence of Pisces, the conception month December is indicative of increased receptivity and unconditional love, which suggests a child who will be highly empathetic and imaginative. As far as the gender is concerned, the position of the planets at the time of conception indicates [Gender Prediction].\n\nPlease note that astrology is not a guarantee, and all predictions should be taken with a grain of salt. Congratulations to Jessica and her partner on their future family addition!",
+            "title": "Baby Gender Astrology",
+            "description": "Get insights into the possible gender of a future baby based on astrology and zodiac signs.",
+            "category": "Astrology",
+            "emoji": "👶",
+            "color": "#7FDBFF",
+            "model": "text-curie-001",
+            "template": 0.6,
+            "listEditText": [
+                {
+                    "prompt": "<Name>",
+                    "question": "Who is going to have a baby?"
+                },
+                {
+                    "prompt": "<Zodiac>",
+                    "question": "What is the zodiac sign of the parent?"
+                },
+                {
+                    "prompt": "<Month>",
+                    "question": "What is the month of conception?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a retelling of the Easter story from the perspective of “<Character>”. Tone: “<Tone>”",
+            "promptResponse": "Write a retelling of the Easter story from the perspective of “Mary Magdalene”. Tone: “Reverent and heartfelt”",
+            "response": "Absolutely! Here's a draft of a retelling of the Easter story from the perspective of Mary Magdalene:\n\nAs I walked to the tomb that morning, my heart was heavy with grief. The one whom I had followed, loved and poured my life into, had been taken from me. I had seen the horror of his crucifixion, and now he lay entombed.\n\nBut as I neared the tomb, something was different. The entrance was open, and the stone had been rolled away. I was filled with confusion and fear, but I had to investigate. Inside, I found the tomb empty, and my heart sank further. My Lord had truly been taken from me.\n\nSuddenly, I heard a voice behind me. I turned to see a man standing there, but he was not recognizable to me. It was only when he spoke my name that I saw him for who he was. It was Jesus, alive and standing before me! I fell to my knees and wept with joy and wonder.\n\nIn this moment, I knew that death had not defeated my Lord. He had conquered it, rising from the dead and bringing hope and salvation to all who believe. As I left the tomb and told the others what I had seen, I knew that nothing would ever be the same. My Lord had risen, and the world was forever changed.\n\n#Easter #Resurrection #Faith #Hope #Love\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Easter Retellings",
+            "description": "Experience the Easter story from a new perspective with our personalized retelling feature.",
+            "category": "Easter",
+            "emoji": "🐰",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Character>",
+                    "question": "From which character's viewpoint would you like to retell the Easter story?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the retelling to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Start a conversation about your favorite springtime memories or traditions. Topic: “<Topic>”, Tone: “<Tone>”",
+            "promptResponse": "Start a conversation about your favorite springtime memories or traditions. Topic: “Decorating Easter Eggs”, Tone: “Nostalgic”",
+            "response": "I'd be happy to! Decorating Easter eggs is one of my favorite springtime traditions, too. I remember when I was a kid, my family and I would spend hours dyeing and decorating eggs with all sorts of colors and designs. It was so much fun to get creative and see what everyone came up with!\n\nDo you have any favorite memories or traditions related to decorating Easter eggs, or springtime in general?",
+            "title": "Springtime Conversations",
+            "description": "Get into the springtime spirit with our conversation starters about all things spring.",
+            "category": "Easter",
+            "emoji": "🌸",
+            "color": "#00BCD4",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Topic>",
+                    "question": "What specific topic related to springtime do you want to discuss?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or mood do you want the conversation to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a personalized Easter card with a message for “<Recipient>”. Theme: “<Theme>”.",
+            "promptResponse": "Create a personalized Easter card with a message for “Grandma”. Theme: “Bunny and Eggs”.",
+            "response": "Absolutely! Here's your personalized Easter card for your grandma:\n\n[Insert Easter bunny and eggs-themed card image here]\n\nDear Grandma,\n\nWishing you a very Happy Easter! May this special day be filled with joy, love, and plenty of sweet treats. You are such an important part of our family and bring so much love and warmth to our lives. On this Easter, I want you to know how much you are appreciated and loved. Thank you for everything you do for us and for always being there with open arms.\n\nHappy Easter, Grandma! Sending you hugs and kisses.\n\nLove,\n[Your Name]\n\n#HappyEaster #FamilyLove #EasterBunny #EggHunt #SweetTreats\n\nLet me know what you think of this card and if you have any revisions or additional suggestions!",
+            "title": "Easter Card Generator",
+            "description": "Celebrate Easter with your loved ones with our personalized Easter card generator.",
+            "category": "Easter",
+            "emoji": "🐰",
+            "color": "#7CB342",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Recipient>",
+                    "question": "Who is the recipient of the Easter card?"
+                },
+                {
+                    "prompt": "<Theme>",
+                    "question": "What Easter theme do you want the card to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create an Easter trivia challenge consisting of “<Number>” questions. Difficulty: “<Difficulty>”",
+            "promptResponse": "Create an Easter trivia challenge consisting of “10” questions. Difficulty: “Medium”",
+            "response": "Sure thing! Here are 10 Easter trivia questions for a medium difficulty challenge:\n\n1. What is the name of the Sunday before Easter, which marks the beginning of the Holy Week?\n\n2. Easter celebrates the resurrection of Jesus Christ on which day?\n\n3. What are the traditional colors of Easter?\n\n4. What is the significance of the Easter Bunny in modern-day Easter celebrations?\n\n5. What type of bread do people traditionally eat on Good Friday?\n\n6. What is the name of the garden where Jesus was arrested?\n\n7. What is the name of the dish made with boiled eggs that are dyed and decorated during Easter?\n\n8. In which country does the Easter egg roll take place on the White House lawn?\n\n9. What flower is associated with Easter due to its ability to bloom in the spring?\n\n10. What type of animal is the Easter Bunny often depicted as in cartoons and decorations?\n\nI hope these questions make for a fun and challenging Easter trivia challenge! Let me know if you need any additional questions or if you want to adjust the difficulty level.",
+            "title": "Easter Trivia Challenge",
+            "description": "Challenge your friends and family with our custom Easter trivia challenge.",
+            "category": "Easter",
+            "emoji": "🐰",
+            "color": "#00C853",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Number>",
+                    "question": "How many questions would you like in the trivia challenge?"
+                },
+                {
+                    "prompt": "<Difficulty>",
+                    "question": "What difficulty level would you like the questions to be? (Easy/Medium/Hard)"
+                }
+            ]
+        },
+        {
+            "prompt": "Generate a secure password of “<Length>” characters using “<Type>” characters",
+            "promptResponse": "Generate a secure password of “12” characters using “alphanumeric and special” characters",
+            "response": "Sure, I can help you generate a secure password with alphanumeric and special characters. Here's a password for you:\n\n[Generated Password]\n\nMake sure you store this password safely and never share it with anyone. You can also generate a new password anytime you need one.\n\nLet me know if you need any help or have any questions!",
+            "title": "Password Generator",
+            "description": "Get a secure password in seconds with our password generator.",
+            "category": "Entertainment",
+            "emoji": "🔑",
+            "color": "#6200EE",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Length>",
+                    "question": "How many characters do you want the password to have?"
+                },
+                {
+                    "prompt": "<Type>",
+                    "question": "Which type of characters do you want to use in the password? (alphanumeric, letters only, numbers only, special characters only, or a combination)"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a calorie calculator that estimates how many calories you burn depending on your activity level, gender, age, and weight. Purpose: “<Purpose>”, Target: “<Target>”, Tone: “<Tone>”",
+            "promptResponse": "Create a calorie calculator that estimates how many calories you burn depending on your activity level, gender, age, and weight. Purpose: “To help people track their fitness goals”, Target: “Fitness enthusiasts”, Tone: “Motivational”",
+            "response": "Sure, I can help create a calorie calculator to estimate the number of calories burned based on various factors. Here's a draft of the feature:\n\nOur calorie calculator is perfect for fitness enthusiasts and anyone looking to track their fitness goals. To use the calculator, simply enter your age, gender, weight, and activity level. The calculator will then estimate the number of calories you burn during different types of activities, such as walking, running, and cycling.\n\nWhether you're trying to lose weight, build muscle, or just maintain a healthy lifestyle, our calorie calculator can help you better understand your fitness journey. Use it to set realistic goals and track your progress over time. Stay motivated and achieve your fitness goals with ease.\n\nLet me know what you think of this feature and if you have any revisions or additional suggestions.",
+            "title": "Calorie Calculator",
+            "description": "Track your fitness goals with our calorie calculator that estimates how many calories you burn during different types of activities.",
+            "category": "Entertainment",
+            "emoji": "🏋️‍♂️",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose of this calorie calculator?"
+                },
+                {
+                    "prompt": "<Target>",
+                    "question": "Who is the target audience for this calorie calculator?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the feature to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a motivational quote for the day to inspire and uplift your followers. Theme: “<Theme>”, Tone: “<Tone>”",
+            "promptResponse": "Create a motivational quote for the day to inspire and uplift your followers. Theme: “Perseverance”, Tone: “Encouraging”",
+            "response": "I'd be happy to help! Here's a draft of a motivational quote for the day:\n\n\"Perseverance is not just about never giving up, it's about getting up every time you fall. Keep pushing forward, even when the road ahead seems tough, and you'll see that the end result will be worth all the hard work.\"\n\nLet this quote be a reminder to you today and always that no matter what challenges you may face, you have the strength and resilience to overcome them. Keep moving forward and believe in yourself!\n\n#MotivationMonday #Perseverance #NeverGiveUp #BelieveInYourself\n\nLet me know what you think of this quote and if you have any revisions or additional suggestions.",
+            "title": "Daily Motivation Quotes",
+            "description": "Empower and inspire your social media followers with daily motivation quotes.",
+            "category": "Entertainment",
+            "emoji": "💪",
+            "color": "#8BC34A",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Theme>",
+                    "question": "What is the theme or message of the quote?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style do you want the quote to have?"
+                }
+            ]
+        },
+        {
+            "prompt": "As a travel guide, suggest a museum or art gallery for “<Location>” based on their interests. Additionally, recommend a similar type of museum or gallery nearby to visit. ",
+            "promptResponse": "As a travel guide, suggest a museum or art gallery for “Istanbul/Beyoğlu” based on their interests. Additionally, recommend a similar type of museum or gallery nearby to visit.",
+            "response": "Absolutely! One of the most notable museums in Beyoğlu is the Istanbul Museum of Modern Art. It offers an extensive collection of contemporary artworks from around Turkey and the world. Since you mentioned a preference for museums, I highly recommend this institution, as it has been praised for its unique exhibitions and innovative curatorial approach.\n\nAs for a similar museum nearby, you may enjoy the Pera Museum, which is also located in Beyoğlu. This museum houses a diverse array of exhibits, including many temporary exhibits on loan from international institutions. Their permanent collection includes Ottoman-era artifacts and European paintings, making it a great option for those interested in art and cultural history. \n\nLet me know what you think of these recommendations, and if you have any other questions or preferences during your stay in Istanbul. I'm here to help you have the best experience possible!\n\n#TravelGuide #Museums #Art #Istanbul #Beyoglu",
+            "title": "Travel Guide",
+            "description": "Let our personalized travel guide suggest the best places to visit during your trip.",
+            "category": "Travel",
+            "emoji": "✈️",
+            "color": "#4DB6AC",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Location>",
+                    "question": "Where are you currently located?"
+                },
+                {
+                    "prompt": "<Interests>",
+                    "question": "What type of museum or place are you interested in visiting?"
+                }
+            ]
+        },
+        {
+            "prompt": "I want you to act as a storyteller. You will come up with entertaining stories that are engaging, imaginative and captivating for the audience. It can be fairy tales, educational stories or any other type of stories which has the potential to capture people's attention and imagination. Depending on the target audience, you may choose specific themes or topics for your storytelling session e.g., if it’s children then you can talk about animals; If it’s adults then history-based tales might engage them better etc. My first request is 'I need an interesting story on perseverance.'",
+            "promptResponse": "Tell an engaging and story of perseverance that will motivate and uplift the audience.",
+            "response": "Of course! Here's a story of perseverance that I believe will inspire and motivate the audience.\n\nOnce upon a time, there was a young boy named Jack who loved to run. He was the fastest runner in his school and dreamed of becoming an Olympic champion one day. However, Jack was born with a rare genetic disorder that affected his legs and made walking and running difficult for him.\n\nDespite this challenge, Jack refused to give up on his dream of becoming a champion runner. He spent hours every day practicing, doing exercises to strengthen his legs, and pushing himself to his limits. Along the way, he faced many setbacks and obstacles, but he never gave up.\n\nFinally, the day of the Olympic trials arrived. Jack stepped up to the starting line, determined to give it his all. The gun went off, and he took off at lightning speed. He stumbled a few times, but he kept going, driven by his passion and fierce perseverance.\n\nIn the end, Jack achieved his dream and won the Olympic gold medal for his country. He became a symbol of hope, perseverance, and determination for people all around the world.\n\nThe lesson of Jack's journey is that with hard work, patience, and unwavering determination, anything is possible. No matter what challenges we face in life, we can always overcome them with perseverance and grit.\n\nLet me know what you think of this story and if you have any ideas for other topics or themes!",
+            "title": "Storyteller",
+            "description": "Let me transport you to another world with my imaginative and captivating stories.",
+            "category": "Entertainment",
+            "emoji": "📖",
+            "color": "#7E57C2",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": []
+        },
+        {
+            "prompt": "Create a StackOverflow post about a coding problem you need help with. Topic: “<Topic>”, Programming Language: “<Language>”, Problem Description: “<Description>”.",
+            "promptResponse": "Create a StackOverflow post about a coding problem you need help with. Topic: “Implementing a search function for my e-commerce site”, Programming Language: “JavaScript”, Problem Description: “I am working on an e-commerce site and trying to implement a search function, but I'm having trouble getting the results to display properly. Can anyone point me in the right direction?”. ",
+            "response": "Thanks for reaching out for help! For implementing search functionality on your e-commerce site, you can use the built-in JavaScript methods to find the relevant data from your website and display it as needed.\n\nHere's what you can do:\n\n1. First, create an HTML <input> element to obtain user input for what they want to search for.\n\n2. Then, create a JavaScript function that will grab the user's input, search through your product data, and return matches based on the user's query. You can use methods like .filter() and .includes() to check for matches.\n\n3. Finally, use JavaScript DOM manipulation to display the search results on the page.\n\nTo ensure that the search results display properly, make sure you style them properly using CSS. You can also consider using a framework/library like React or Vue.js to make the search functionality more robust.\n\nBest of luck with your e-commerce site!",
+            "title": "StackOverflow Posts",
+            "description": "Get help from the programming community with our StackOverflow post feature.",
+            "category": "Programming",
+            "emoji": "💻",
+            "color": "#7952B3",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Topic>",
+                    "question": "What is the general topic of your coding problem?"
+                },
+                {
+                    "prompt": "<Language>",
+                    "question": "What programming language are you using?"
+                },
+                {
+                    "prompt": "<Description>",
+                    "question": "What is a brief description of your coding problem?"
+                }
+            ]
+        },
+        {
+            "prompt": "Draft a contract for a startup tech company that outlines the services provided by a lawyer. The contract should include the scope of work, fees, timeline, and any other relevant terms. ",
+            "promptResponse": "Draft a contract for a startup tech company that outlines the services provided by a lawyer. The company is developing a new social media platform and needs legal assistance with patents, trademarks, and licensing agreements. Please include the scope of work, fees, timeline, and any other relevant terms.",
+            "response": "Sure thing! Here's a draft of the contract based on the information you provided:\n\nServices: The lawyer will provide legal counsel and guidance to the startup tech company on matters related to patents, trademarks, and licensing agreements. The scope of work includes initial consulting sessions to assess the company's needs, drafting legal contracts and agreements, assisting with negotiations and other activities as needed.\n\nFees and Payment: The total fee for the services provided by the lawyer shall be [insert amount]. The payment shall be made in installments as follows: [insert payment schedule]. In the event of a payment delay, [insert late payment policy and interest charges].\n\nTimeline: The lawyer will make reasonable efforts to complete the services within [insert timeline]. However, the timeline may be subject to change depending on unforeseeable circumstances or issues that arise in the process.\n\nTermination: The agreement can be terminated by either party with prior written notice [insert notice period]. If terminated, the company will be liable for all expense and costs incurred up to the termination date.\n\nOther Terms: The lawyer shall maintain the confidentiality of all information received from the company in connection with the services provided. The lawyer shall also provide regular updates on the progress of the work and respond promptly to any questions or concerns from the company.\n\nPlease let me know your thoughts on this draft and if you have any revisions or additional suggestions. Thank you!",
+            "title": "Startup Tech Lawyer",
+            "description": "Create legal contracts for startup tech companies with ease.",
+            "category": "Business",
+            "emoji": "💼",
+            "color": "#4CAF50",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "startup tech company",
+                    "question": "Who is the contract for?"
+                },
+                {
+                    "prompt": "patents, trademarks, and licensing agreements",
+                    "question": "What are the services required?"
+                },
+                {
+                    "prompt": "fees",
+                    "question": "What are the fees for the services provided?"
+                },
+                {
+                    "prompt": "timeline",
+                    "question": "What is the expected timeline for completion?"
+                },
+                {
+                    "prompt": "termination",
+                    "question": "What are the terms of termination?"
+                },
+                {
+                    "prompt": "other terms",
+                    "question": "Are there any other terms that should be included in the contract?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write an informative Wikipedia page about “<Subject>” with a detailed introduction, opening paragraph and references",
+            "promptResponse": "Write an informative Wikipedia page about “Blockchain Technology” with a detailed introduction, opening paragraph and references",
+            "response": "Certainly, I can help you with that! Here's an example of an opening paragraph for a Wikipedia page on Blockchain Technology:\n\nBlockchain Technology is a decentralized, distributed ledger technology that records transactions on multiple computers in a secure and transparent way. It transforms traditional businesses and creates new opportunities by building trust between parties without the need for intermediaries. Blockchain is the underlying technology of Bitcoin, but its potential applications go far beyond this. With its groundbreaking features, including immutability, decentralization, and transparency, blockchain reinforces the security of various domains such as Banking, Supply Chains, and Healthcare.\n\nReferences:\n1. Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.\n2. Swan, M. (2015). Blockchain: Blueprint for a new economy. O'Reilly Media, Inc.\n\nLet me know what you think of this draft and if you have any revisions or additional suggestions.",
+            "title": "Wikipedia Pages",
+            "description": "Get a professionally written Wikipedia page for your subject.",
+            "category": "Writing",
+            "emoji": "📚",
+            "color": "#673AB7",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Subject>",
+                    "question": "What is the subject of the Wikipedia page?"
+                }
+            ]
         }
     ]
 }
