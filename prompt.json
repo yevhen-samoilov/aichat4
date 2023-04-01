@@ -143,6 +143,54 @@
                     "question": "What tone or style do you want the post to have?"
                 }
             ]
+        },
+        {
+            "prompt": "What are the top ten trending topics on <Social Media> currently?",
+            "promptResponse": "What are the top ten trending topics on Twitter currently?",
+            "response": "The top ten trending topics on Twitter currently are #BlackLivesMatter, #MLBReturns, #UniteLeft, #IStandWithPP, #HappyBirthdayJustinBieber, #Happy4thofJuly, #F1, #MondayThoughts, #SomosUnoMes, and #Reggaeton.",
+            "title": "Social Media Trends",
+            "description": "Discover what is trending on Social Media",
+            "category": "Social Media",
+            "emoji": "📱",
+            "color": "#0080FF",
+            "model": "trending-davinci-001",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Social Media>",
+                    "question": "Which social media platform do you want to search?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a viral video idea for “<Platform>” to promote a new product. Purpose: “<Purpose>”, Target: “<Audience>”, Tone: “<Tone>”",
+            "promptResponse": "Create a viral video idea for “YouTube” to promote a new fitness product. Purpose: “To show how easy it is to use the product”, Target: “Fitness enthusiasts”, Tone: “Upbeat”",
+            "response": "Great idea! I think a fun and upbeat video would be perfect for promoting the new fitness product on YouTube. Here's an idea for a viral video:\n\nTitle: Get Fit, Have Fun with Our New Fitness Product!\n\nBody: Hey, fitness enthusiasts! We're excited to introduce you to our new fitness product that will make you love working out. It's so easy to use, you won't believe how much fun it is! In this video, we're going to show you some fun exercises using the product.\n\nLet's start with a warm-up: a dance routine set to an upbeat song. Next, we'll move on to some strength training using the product, followed by a cool-down featuring some yoga moves. We'll also show you how to set up and use the product, so you can start your workout right away.\n\nSo grab your workout gear and get ready for some fun! And don't forget to like and share this video!\n\n#GetFitHaveFun #NewFitnessProduct #Workout #FitnessEnthusiasts #YouTube #ViralVideo\n\nLet me know what you think and if you have any revisions or additional suggestions.",
+            "title": "Viral Video Ideas",
+            "description": "Get your brand noticed with our viral video ideas.",
+            "category": "Marketing",
+            "emoji": "🎥",
+            "color": "#FFD700",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Platform>",
+                    "question": "Specify the video platform"
+                },
+                {
+                    "prompt": "<Purpose>",
+                    "question": "What is the purpose or goal of this video?"
+                },
+                {
+                    "prompt": "<Audience>",
+                    "question": "Who is the target audience for this video?"
+                },
+                {
+                    "prompt": "<Tone>",
+                    "question": "What tone or style should the video have?"
+                }
+            ]
         }
     ]
 }
