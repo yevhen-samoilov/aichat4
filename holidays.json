@@ -1,0 +1,175 @@
+{
+  "holidays": [
+    {
+      "name": "Birthday",
+      "description": "A holiday that is celebrated annually on the day of a person's birth",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "New Year's Day",
+      "description": "A holiday that is celebrated on the first day of the new year",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Christmas",
+      "description": "A religious holiday that is celebrated in honor of the birth of Jesus Christ",
+      "countries": ["Russia", "USA", "UK", "France", "Italy", "Germany", "Spain"]
+    },
+    {
+      "name": "Valentine's Day",
+      "description": "A holiday that is celebrated in honor of Saint Valentine, the patron saint of lovers",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "International Women's Day",
+      "description": "A holiday that is celebrated annually on March 8th in honor of women",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Mother's Day",
+      "description": "A holiday that is celebrated in honor of mothers",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Father's Day",
+      "description": "A holiday that is celebrated in honor of fathers",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Valentine's Day",
+      "description": "A holiday that is celebrated in honor of all lovers",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Victory Day",
+      "description": "A holiday that is celebrated in honor of Victory Day in the Great Patriotic War",
+      "countries": ["Russia", "CIS", "Germany", "France", "Poland", "Czech Republic", "USA"]
+    },
+    {
+      "name": "May Day",
+      "description": "A holiday that is celebrated in honor of spring and labor",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Independence Day",
+      "description": "A holiday that is celebrated in honor of the day a country gained independence",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Constitution Day",
+      "description": "A holiday that is celebrated in honor of the day a country's constitution was adopted",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Defender of the Fatherland Day",
+      "description": "A holiday that is celebrated in honor of defenders of the fatherland",
+      "countries": ["Russia", "CIS"]
+    },
+    {
+      "name": "Knowledge Day",
+      "description": "A holiday that is celebrated in honor of the beginning of the academic year",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Saint Nicholas Day",
+      "description": "A holiday that is celebrated in honor of Saint Nicholas",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Easter",
+      "description": "A religious holiday that is celebrated in honor of the resurrection of Jesus Christ",
+      "countries": ["all countries"]
+    },
+    {
+      "name": "Hanukkah",
+      "description": "A Jewish holiday that is celebrated in honor of the miracle of the oil",
+      "countries": ["all countries"]
+    },
+        {
+      "name": "Eid al-Adha",
+      "description": "A Muslim holiday that is celebrated in honor of the sacrifice of Ibrahim",
+      "countries": ["all countries with Muslim population"]
+    },
+    {
+      "name": "Ramadan",
+      "description": "A Muslim holiday that is celebrated during the ninth month of the Islamic calendar",
+      "countries": ["all countries with Muslim population"]
+    },
+    {
+      "name": "Purim",
+      "description": "A Jewish holiday that is celebrated in honor of the defeat of Haman's plot to massacre the Jews",
+      "countries": ["all countries with Jewish population"]
+    },
+    {
+      "name": "Prophet Muhammad's Birthday",
+      "description": "A Muslim holiday that is celebrated in honor of the birthday of the Prophet Muhammad",
+      "countries": ["all countries with Muslim population"]
+    },
+    {
+      "name": "Columbus Day",
+      "description": "A holiday that is celebrated in honor of the arrival of Christopher Columbus in the Americas",
+      "countries": ["USA", "Spain", "Latin American countries"]
+    },
+    {
+      "name": "St. Patrick's Day",
+      "description": "A holiday that is celebrated in honor of Saint Patrick, the patron saint of Ireland",
+      "countries": ["Ireland", "USA", "Canada"]
+    },
+    {
+      "name": "National Pasta Day",
+      "description": "A holiday that is celebrated in honor of the popular Italian food, pasta",
+      "countries": ["Italy", "USA"]
+    },
+    {
+      "name": "Chinese New Year",
+      "description": "A traditional Chinese holiday that celebrates the beginning of a new year on the lunar calendar",
+      "countries": ["China", "Taiwan", "Hong Kong", "Singapore"]
+    },
+    {
+      "name": "Diwali",
+      "description": "A Hindu holiday that celebrates the victory of light over darkness and good over evil",
+      "countries": ["India", "Nepal", "Sri Lanka", "Mauritius", "Trinidad and Tobago"]
+    },
+    {
+      "name": "Holi",
+      "description": "A Hindu holiday that celebrates the arrival of spring and the triumph of good over evil",
+      "countries": ["India", "Nepal", "Bangladesh", "Pakistan", "Mauritius", "Trinidad and Tobago"]
+    },
+    {
+      "name": "Eid al-Fitr",
+      "description": "A Muslim holiday that marks the end of Ramadan, the month of fasting",
+      "countries": ["all countries with Muslim population"]
+    },
+    {
+      "name": "Thanksgiving",
+      "description": "A holiday that is celebrated in the United States and Canada to give thanks for the blessings of the year",
+      "countries": ["USA", "Canada"]
+    },
+    {
+      "name": "Day of the Dead",
+      "description": "A Mexican holiday that celebrates the memory of deceased loved ones",
+      "countries": ["Mexico", "Latin American countries"]
+    },
+    {
+      "name": "Mardi Gras",
+      "description": "A carnival celebration that takes place before Lent in many countries",
+      "countries": ["Brazil", "France", "Spain", "Italy", "USA", "Caribbean countries"]
+    },
+    {
+      "name": "Oktoberfest",
+      "description": "A German festival that celebrates beer and Bavarian culture",
+      "countries": ["Germany", "USA", "Canada", "Brazil", "Argentina"]
+    },
+    {
+      "name": "St. Andrew's Day",
+      "description": "A Scottish holiday that celebrates the patron saint of Scotland",
+      "countries": ["Scotland", "Canada", "USA", "Australia", "New Zealand"]
+    },
+    {
+      "name": "Queen's Birthday",
+      "description": "A holiday that celebrates the birthday of the reigning monarch in several Commonwealth countries",
+      "countries": ["UK", "Canada", "Australia", "New Zealand"]
+    }
+  ]
+}
+
