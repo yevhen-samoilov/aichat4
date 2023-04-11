@@ -4,217 +4,418 @@
       "name": "Birthday",
       "emoji": "🎂",
       "description": "A holiday that is celebrated annually on the day of a person's birth",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "joyful",
+        "reflective"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "New Year's Day",
       "emoji": "🎉",
       "description": "A holiday that is celebrated on the first day of the new year",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "hopeful",
+        "excited"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Christmas",
       "emoji": "🎄",
       "description": "A religious holiday that is celebrated in honor of the birth of Jesus Christ",
-      "countries": ["Russia", "USA", "UK", "France", "Italy", "Germany", "Spain"]
+      "countries": [
+        "Russia",
+        "USA",
+        "UK",
+        "France",
+        "Italy",
+        "Germany",
+        "Spain"
+      ],
+      "tones": [
+        "merry",
+        "reverent"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Valentine's Day",
       "emoji": "❤️️💕",
       "description": "A holiday that is celebrated in honor of Saint Valentine, the patron saint of lovers",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "romantic",
+        "playful"
+      ],
+      "statuses": [
+        "partner",
+        "crush",
+        "spouse"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "International Women's Day",
       "emoji": "👩‍❤️‍💋‍👩🌷",
       "description": "A holiday that is celebrated annually on March 8th in honor of women",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "empowering",
+        "inspiring"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Mother's Day",
       "emoji": "🌸👩‍👧‍👦",
       "description": "A holiday that is celebrated in honor of mothers",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "appreciative",
+        "loving"
+      ],
+      "statuses": [
+        "daughter",
+        "son",
+        "spouse",
+        "friend"
+      ],
+      "genders": [
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Father's Day",
       "emoji": "👨‍👦👔",
       "description": "A holiday that is celebrated in honor of fathers",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "grateful",
+        "nostalgic"
+      ],
+      "statuses": [
+        "father",
+        "stepfather",
+        "grandfather",
+        "father-in-law",
+        "father figure"
+      ],
+      "genders": [
+        "Male",
+        "Non-binary"
+      ]
     },
     {
       "name": "Victory Day",
       "emoji": "🎖️🏆",
       "description": "A holiday that is celebrated in honor of Victory Day in the Great Patriotic War",
-      "countries": ["Russia", "CIS", "Germany", "France", "Poland", "Czech Republic", "USA"]
+      "countries": [
+        "Russia",
+        "CIS",
+        "Germany",
+        "France",
+        "Poland",
+        "Czech Republic",
+        "USA"
+      ],
+      "tones": [
+        "patriotic",
+        "remembrance"
+      ],
+      "statuses": [
+        "veteran",
+        "family member of a veteran",
+        "civilian affected by war"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "May Day",
       "emoji": "🌸🌺",
       "description": "A holiday that is celebrated in honor of spring and labor",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "festive",
+        "political"
+      ],
+      "statuses": [
+        "worker",
+        "trade union member",
+        "immigrant rights advocate"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Independence Day",
       "emoji": "🇺🇸🎆",
       "description": "A holiday that is celebrated in honor of the day a country gained independence",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "patriotic",
+        "reflective"
+      ],
+      "statuses": [
+        "citizen",
+        "immigrant",
+        "political leader"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Constitution Day",
       "emoji": "📜🇺🇸",
       "description": "A holiday that is celebrated in honor of the day a country's constitution was adopted",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "historical",
+        "political"
+      ],
+      "statuses": [
+        "citizen",
+        "legal scholar",
+        "political leader"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Defender of the Fatherland Day",
       "emoji": "🎖️🔫",
       "description": "A holiday that is celebrated in honor of the day a country's constitution was adopted",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "patriotic",
+        "respectful"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Knowledge Day",
       "emoji": "🎓📚",
       "description": "A holiday that is celebrated in honor of the beginning of the academic year",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "hopeful",
+        "reflective"
+      ],
+      "statuses": [
+        "student",
+        "teacher",
+        "parent"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Saint Nicholas Day",
       "emoji": "🎁🎅",
       "description": "A holiday that is celebrated in honor of Saint Nicholas",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "festive",
+        "generous"
+      ],
+      "statuses": [
+        "child",
+        "parent",
+        "grandparent"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Easter",
       "emoji": "🐰🥚",
       "description": "A religious holiday that is celebrated in honor of the resurrection of Jesus Christ",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries"
+      ],
+      "tones": [
+        "joyful",
+        "reverent"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Hanukkah",
       "emoji": "🕎🔥",
       "description": "A Jewish holiday that is celebrated in honor of the miracle of the oil",
-      "countries": ["all countries"]
+      "countries": [
+        "all countries with Jewish population"
+      ],
+      "tones": [
+        "festive",
+        "hopeful"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Eid al-Adha",
       "emoji": "🐏🕌",
       "description": "A Muslim holiday that is celebrated in honor of the sacrifice of Ibrahim",
-      "countries": ["all countries with Muslim population"]
+      "countries": [
+        "all countries with Muslim population"
+      ],
+      "tones": [
+        "reverent",
+        "generous"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
     {
       "name": "Ramadan",
       "emoji": "🌙🕌",
       "description": "A Muslim holiday that is celebrated during the ninth month of the Islamic calendar",
-      "countries": ["all countries with Muslim population"]
+      "countries": [
+        "all countries with Muslim population"
+      ],
+      "tones": [
+        "reverent",
+        "reflective"
+      ],
+      "statuses": [
+        "friend",
+        "family member",
+        "colleague",
+        "partner"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Non-binary"
+      ]
     },
-    {
-      "name": "Purim",
-      "emoji": "🎭🍷",
-      "description": "A Jewish holiday that is celebrated in honor of the defeat of Haman's plot to massacre the Jews",
-      "countries": ["all countries with Jewish population"]
-    },
-    {
-      "name": "Prophet Muhammad's Birthday",
-      "emoji": "🎂🕌",
-      "description": "A Muslim holiday that is celebrated in honor of the birthday of the Prophet Muhammad",
-      "countries": ["all countries with Muslim population"]
-    },
-    {
-      "name": "Columbus Day",
-      "emoji": "🌎⛵",
-      "description": "A holiday that is celebrated in honor of the arrival of Christopher Columbus in the Americas",
-      "countries": ["USA", "Spain", "Latin American countries"]
-    },
-    {
-      "name": "St. Patrick's Day",
-      "emoji": "🍀🇮🇪",
-      "description": "A holiday that is celebrated in honor of Saint Patrick, the patron saint of Ireland",
-      "countries": ["Ireland", "USA", "Canada"]
-    },
-    {
-      "name": "National Pasta Day",
-      "emoji": "🍝🇮🇹",
-      "description": "A holiday that is celebrated in honor of the popular Italian food, pasta",
-      "countries": ["Italy", "USA"]
-    },
-    {
-      "name": "Chinese New Year",
-      "emoji": "🧧🐉",
-      "description": "A traditional Chinese holiday that celebrates the beginning of a new year on the lunar calendar",
-      "countries": ["China", "Taiwan", "Hong Kong", "Singapore"]
-    },
-    {
-      "name": "Diwali",
-      "emoji": "🪔🎉",
-      "description": "A Hindu holiday that celebrates the victory of light over darkness and good over evil",
-      "countries": ["India", "Nepal", "Sri Lanka", "Mauritius", "Trinidad and Tobago"]
-    },
-    {
-      "name": "Holi",
-      "emoji": "🎨🌈",
-      "description": "A Hindu holiday that celebrates the arrival of spring and the triumph of good over evil",
-      "countries": ["India", "Nepal", "Bangladesh", "Pakistan", "Mauritius", "Trinidad and Tobago"]
-    },
-    {
-      "name": "Eid al-Fitr",
-      "emoji": "🌙🕌🎉",
-      "description": "A Muslim holiday that marks the end of Ramadan, the month of fasting",
-      "countries": ["all countries with Muslim population"]
-    },
-    {
-      "name": "Thanksgiving",
-      "emoji": "🦃🍁",
-      "description": "A holiday that is celebrated in the United States and Canada to give thanks for the blessings of the year",
-      "countries": ["USA", "Canada"]
-    },
-    {
-      "name": "Day of the Dead",
-      "emoji": "💀🎉",
-      "description": "A Mexican holiday that celebrates the memory of deceased loved ones",
-      "countries": ["Mexico", "Latin American countries"]
-    },
-    {
-      "name": "Mardi Gras",
-      "emoji": "🎭🎉",
-      "description": "A carnival celebration that takes place before Lent in many countries",
-      "countries": ["Brazil", "France", "Spain", "Italy", "USA", "Caribbean countries"]
-    },
-    {
-      "name": "Oktoberfest",
-      "emoji": "🍺🥨",
-      "description": "A German festival that celebrates beer and Bavarian culture",
-      "countries": ["Germany", "USA", "Canada", "Brazil", "Argentina"]
-    },
-    {
-      "name": "St. Andrew's Day",
-      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🎉",
-      "description": "A Scottish holiday that celebrates the patron saint of Scotland",
-      "countries": ["Scotland", "Canada", "USA", "Australia", "New Zealand"]
-    },
-    {
-      "name": "Queen's Birthday",
-      "emoji": "👑🎂",
-      "description": "A holiday that celebrates the birthday of the reigning monarch in several Commonwealth countries",
-      "countries": ["UK", "Canada", "Australia", "New Zealand"]
-    },
-    {
-      "name": "La Tomatina",
-      "emoji": "🍅🎉",
-      "description": "A Spanish festival that celebrates the tomato",
-      "countries": ["Spain"]
-    },
-    {
-      "name": "Bastille Day",
-      "emoji": "🇫🇷🎉",
-      "description": "A French national holiday that commemorates the storming of the Bastille during the French Revolution",
-      "countries": ["France", "French territories"]
-    },
-    {
-      "name": "Lunar New Year",
-      "emoji": "🎊🐭",
-      "description": "A holiday that is celebrated in many Asian countries to mark the beginning of a new lunar year",
-      "countries": ["China", "Vietnam", "Korea", "Singapore", "Malaysia", "Indonesia"]
-    }
   ]
 }
