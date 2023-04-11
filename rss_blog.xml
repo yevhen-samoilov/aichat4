@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
     xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title><![CDATA[AI Chat Blog]]></title>
@@ -9,7 +8,6 @@
         <link>https://aichat4.onelink.me/c7Gh/rssauto</link>
         <generator>RSS for Node</generator>
         <lastBuildDate>Tue, 11 Apr 2023 20:00:24 GMT</lastBuildDate>
-        <atom:link href="https://aichat4.onelink.me/c7Gh/rssauto" rel="self" type="application/rss+xml" />
         <language><![CDATA[en-us]]></language>
         <item>
             <title><![CDATA[10 ways AI chatbots can transform your customer service experience]]></title>
