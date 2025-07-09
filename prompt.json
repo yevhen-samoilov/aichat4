@@ -1212,6 +1212,170 @@
                     "question": "What is the math expression you need to solve?"
                 }
             ]
+        },
+        {
+            "prompt": "Create a daily productivity schedule for <Person> to maximize efficiency. Work hours: <Hours>, Main tasks: <Tasks>, Style: <Style>",
+            "promptResponse": "Create a daily productivity schedule for Alex to maximize efficiency. Work hours: 9 AM - 6 PM, Main tasks: Meetings, coding, emails, Style: Time blocking",
+            "response": "Here's an optimized daily productivity schedule for Alex using time blocking:\n\n**9:00-9:30 AM:** Morning routine & priorities review\n**9:30-11:00 AM:** Deep work - Coding (peak focus time)\n**11:00-11:15 AM:** Break\n**11:15-12:30 PM:** Meetings (group collaboration)\n**12:30-1:30 PM:** Lunch break\n**1:30-2:00 PM:** Email processing & responses\n**2:00-3:30 PM:** Deep work - Coding (continued)\n**3:30-3:45 PM:** Break\n**3:45-4:30 PM:** Administrative tasks\n**4:30-5:30 PM:** Meetings (one-on-ones)\n**5:30-6:00 PM:** Day wrap-up & planning\n\n**Productivity Tips:**\n- Batch similar tasks together\n- Use Pomodoro technique during coding\n- Check emails only at designated times\n- Take breaks every 90 minutes\n\nThis schedule maximizes energy and minimizes context switching!",
+            "title": "Productivity Schedule",
+            "description": "Optimize your daily schedule for maximum productivity and efficiency.",
+            "category": "Productivity",
+            "emoji": "⏰",
+            "color": "#FF9800",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Person>",
+                    "question": "Who is this schedule for?"
+                },
+                {
+                    "prompt": "<Hours>",
+                    "question": "What are the work hours?"
+                },
+                {
+                    "prompt": "<Tasks>",
+                    "question": "What are the main tasks or responsibilities?"
+                },
+                {
+                    "prompt": "<Style>",
+                    "question": "What productivity style or method do you prefer?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a shopping list for <Occasion> with budget of <Budget>. Store: <Store>, Restrictions: <Restrictions>",
+            "promptResponse": "Create a shopping list for Weekly groceries with budget of $150. Store: Supermarket, Restrictions: Vegetarian",
+            "response": "Here's your vegetarian grocery shopping list for $150:\n\n**Fresh Produce ($40):**\n- Bananas, apples, oranges\n- Spinach, lettuce, tomatoes\n- Bell peppers, onions, carrots\n- Broccoli, zucchini\n- Potatoes, sweet potatoes\n\n**Proteins ($35):**\n- Eggs (2 dozen)\n- Greek yogurt\n- Tofu\n- Black beans (canned)\n- Chickpeas (canned)\n- Nuts and seeds\n\n**Grains & Starches ($25):**\n- Brown rice\n- Whole wheat pasta\n- Oats\n- Whole grain bread\n- Quinoa\n\n**Dairy & Alternatives ($20):**\n- Milk (plant-based)\n- Cheese\n- Butter\n\n**Pantry Staples ($20):**\n- Olive oil\n- Spices and herbs\n- Canned tomatoes\n- Vegetable broth\n- Honey\n\n**Snacks ($10):**\n- Crackers, fruits, nuts\n\n**Total: ~$150**\n\nBalanced nutrition for a week within budget!",
+            "title": "Shopping List Generator",
+            "description": "Create organized shopping lists based on your budget, dietary needs, and occasion.",
+            "category": "Shopping",
+            "emoji": "🛒",
+            "color": "#E91E63",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Occasion>",
+                    "question": "What is the shopping occasion?"
+                },
+                {
+                    "prompt": "<Budget>",
+                    "question": "What is your budget?"
+                },
+                {
+                    "prompt": "<Store>",
+                    "question": "What type of store will you shop at?"
+                },
+                {
+                    "prompt": "<Restrictions>",
+                    "question": "Any dietary restrictions or preferences?"
+                }
+            ]
+        },
+        {
+            "prompt": "Provide sports analysis for <Team> vs <Opponent> game. Focus: <Focus>, include predictions and key players",
+            "promptResponse": "Provide sports analysis for Lakers vs Warriors game. Focus: Offensive strategies, include predictions and key players",
+            "response": "**Lakers vs Warriors Game Analysis**\n\n**Offensive Strategies:**\n\n**Lakers Approach:**\n- Utilize LeBron James' playmaking for open shots\n- Focus on inside-out basketball with Anthony Davis\n- Push transition pace to exploit defense\n- Create mismatches with size advantage\n\n**Warriors Strategy:**\n- Rely on Stephen Curry's three-point shooting\n- Use Klay Thompson's catch-and-shoot ability\n- Quick ball movement for open looks\n- Exploit spacing with Draymond Green's passing\n\n**Key Players to Watch:**\n- **LeBron James** - Playmaking and leadership\n- **Stephen Curry** - Three-point shooting and pace\n- **Anthony Davis** - Interior dominance\n- **Draymond Green** - Defensive anchor\n\n**Prediction:**\nHigh-scoring affair with both teams 115+ points. Team controlling pace and limiting turnovers wins. Warriors' shooting vs Lakers' size.\n\n**Predicted Score:** Warriors 118, Lakers 115\n\nExciting matchup between championship-caliber teams!",
+            "title": "Sports Analysis",
+            "description": "Get detailed sports analysis, predictions, and insights for your favorite teams.",
+            "category": "Sports",
+            "emoji": "⚽",
+            "color": "#FF5722",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Team>",
+                    "question": "Which team do you want to analyze?"
+                },
+                {
+                    "prompt": "<Opponent>",
+                    "question": "Who is their opponent?"
+                },
+                {
+                    "prompt": "<Focus>",
+                    "question": "What aspect should the analysis focus on?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create a game review for <Game> including gameplay, graphics, story, and rating. Platform: <Platform>, Genre: <Genre>",
+            "promptResponse": "Create a game review for The Last of Us Part II including gameplay, graphics, story, and rating. Platform: PlayStation 5, Genre: Action-Adventure",
+            "response": "**The Last of Us Part II - Game Review**\n\n**Gameplay (9/10):**\nRefined stealth mechanics, improved combat, diverse enemy types. Infected remain terrifying, human enemies provide strategic challenges. Responsive controls.\n\n**Graphics (10/10):**\nStunning visuals pushing PS5 limits. Lifelike character animations, richly detailed environments, immersive lighting effects.\n\n**Story (8/10):**\nBold, emotionally complex narrative taking risks. Dual perspective provides depth, challenges assumptions. Exceptional voice acting.\n\n**Sound Design (9/10):**\nHaunting environmental sounds, excellent voice acting, memorable score enhancing emotional moments.\n\n**Replay Value (7/10):**\nMultiple difficulty levels, hidden collectibles provide some incentive, though linear nature limits long-term replay.\n\n**Overall Rating: 8.5/10**\n\nMasterpiece of technical achievement and storytelling. Despite divisive narrative choices, delivers unforgettable gaming experience. Highly recommended for mature players.",
+            "title": "Game Reviews",
+            "description": "Get comprehensive game reviews covering all aspects of your favorite video games.",
+            "category": "Games",
+            "emoji": "🎮",
+            "color": "#9C27B0",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Game>",
+                    "question": "What game do you want to review?"
+                },
+                {
+                    "prompt": "<Platform>",
+                    "question": "What platform is the game on?"
+                },
+                {
+                    "prompt": "<Genre>",
+                    "question": "What genre is the game?"
+                }
+            ]
+        },
+        {
+            "prompt": "Write a song about <Theme> with <Mood> feeling. Include chorus, verses, and bridge",
+            "promptResponse": "Write a song about Love with Uplifting feeling. Include chorus, verses, and bridge",
+            "response": "**\"Love Lights the Way\"**\n\n**Verse 1:**\nWhen the world feels heavy on my shoulders\nAnd the nights seem longer than before\nThere's a warmth that makes me feel much bolder\nIt's the love that lives inside my core\n\n**Chorus:**\nLove lights the way through the darkest night\nLove makes everything feel so right\nWith you beside me, I can fly\nLove lifts me up and makes me high\n\n**Verse 2:**\nEvery morning brings a new beginning\nWith your smile to guide me through the day\nIn your eyes, I see my heart is winning\nLove has found its perfect place to stay\n\n**Chorus:**\nLove lights the way through the darkest night\nLove makes everything feel so right\nWith you beside me, I can fly\nLove lifts me up and makes me high\n\n**Bridge:**\nThrough the storms and through the rain\nLove will heal away the pain\nHand in hand, we'll face tomorrow\nTurn our joy from yesterday's sorrow\n\n**Final Chorus:**\nLove lights the way through the darkest night\nLove makes everything feel so right\nWith you beside me, I can fly\nLove lifts me up and makes me high\n\nA song celebrating the transformative power of love!",
+            "title": "Song Writing",
+            "description": "Create original songs with lyrics, verses, and choruses for any theme or mood.",
+            "category": "Music",
+            "emoji": "🎵",
+            "color": "#8BC34A",
+            "model": "text-davinci-002",
+            "template": 0.8,
+            "listEditText": [
+                {
+                    "prompt": "<Theme>",
+                    "question": "What theme or subject should the song be about?"
+                },
+                {
+                    "prompt": "<Mood>",
+                    "question": "What mood or feeling should the song convey?"
+                }
+            ]
+        },
+        {
+            "prompt": "Create an art project idea for <Medium> focusing on <Subject>. Skill level: <Level>, Time: <Time>",
+            "promptResponse": "Create an art project idea for Watercolor focusing on Nature. Skill level: Beginner, Time: 2 hours",
+            "response": "**Watercolor Nature Project: \"Sunset Forest Silhouette\"**\n\n**Materials Needed:**\n- Watercolor paints (yellow, orange, red, purple, black)\n- Watercolor paper\n- Brushes (flat and round)\n- Masking tape\n- Pencil\n- Water containers\n- Paper towels\n\n**Step-by-Step Instructions:**\n\n**1. Prepare Canvas (15 min):**\n- Tape edges to create clean borders\n- Lightly sketch horizon line\n\n**2. Create Sunset Sky (45 min):**\n- Wet paper above horizon\n- Paint gradual sunset from yellow (top) to orange to red\n- Let colors blend naturally\n- Add purple touches for depth\n\n**3. Paint Forest Silhouette (45 min):**\n- Wait for sky to dry completely\n- Use black paint for tree silhouettes\n- Start with distant trees (smaller)\n- Add foreground trees (larger)\n- Include variety in tree shapes\n\n**4. Final Details (15 min):**\n- Add birds in flight\n- Remove masking tape\n- Sign your artwork\n\n**Beginner Tips:**\n- Work wet-on-wet for sky\n- Let each layer dry before adding details\n- Don't worry about perfection!\n\nThis project teaches color blending and silhouette techniques while creating a beautiful piece!",
+            "title": "Art Project Ideas",
+            "description": "Get creative art project ideas with step-by-step instructions for any medium or skill level.",
+            "category": "Art",
+            "emoji": "🎨",
+            "color": "#FF5722",
+            "model": "text-davinci-002",
+            "template": 0.7,
+            "listEditText": [
+                {
+                    "prompt": "<Medium>",
+                    "question": "What art medium do you want to work with?"
+                },
+                {
+                    "prompt": "<Subject>",
+                    "question": "What subject or theme should the artwork focus on?"
+                },
+                {
+                    "prompt": "<Level>",
+                    "question": "What is your skill level?"
+                },
+                {
+                    "prompt": "<Time>",
+                    "question": "How much time do you have for this project?"
+                }
+            ]
         }
     ]
 }
